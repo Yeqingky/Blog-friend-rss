@@ -29,6 +29,26 @@
       "rss": "false",
       "labels": [],
       "posts": []
+    },
+    {
+      "title": "博客中心",
+      "url": "https://bokehub.com/home",
+      "cover": "https://list.yppp.net/d/image/2025-12-29-42bed3a0879abbb60c49c2a6adb37e2c.jpg",
+      "icon": "https://list.yppp.net/d/image/2025-12-29-e8ed8130df491d55497fb7449305bbdf.png",
+      "description": "这里是博客世界的中心，更是思想的回声谷。",
+      "rss": "false",
+      "labels": [],
+      "posts": []
+    },
+    {
+      "title": "超危狼猫の小屋",
+      "url": "https://blog.cwlm.xyz/",
+      "cover": "https://list.yppp.net/d/image/9386b98729a1aaa63ff8d3063fa583da.webp",
+      "icon": "https://list.yppp.net/d/oss/image/i/2025/05/16/e18acd6237bf709aacb75d8fb25ebb4b.webp",
+      "description": "道路越泥泞 脚步越清晰",
+      "rss": "https://blog.cwlm.xyz/atom.xml",
+      "labels": [],
+      "posts": []
     }
   ]
 }
