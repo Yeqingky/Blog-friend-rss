@@ -1,3 +1,41 @@
 {
-  "content": []
+  "content": [
+    {
+      "title": "星月Minecraft版本库",
+      "url": "https://spectrollay.github.io/minecraft_repository/",
+      "cover": "https://list.yppp.net/d/image/0d3efac91fd1350f8905ce18d0a85594.webp",
+      "icon": "https://list.yppp.net/d/oss/image/i/2025/05/16/49763cf75920c5aa7ad40ca76d30af47.webp",
+      "description": "一个开放共享的全版本Minecraft下载站.",
+      "labels": [],
+      "posts": []
+    },
+    {
+      "title": "大方博客",
+      "url": "https://blog.mmp.cc/",
+      "cover": "https://list.yppp.net/d/image/d248c5e2241adefe42180e2365984d2f.webp",
+      "icon": "https://blog.mmp.cc/wp-content/uploads/2024/11/df.png",
+      "description": "实用建站教程与资源分享",
+      "labels": [],
+      "posts": []
+    },
+    {
+      "title": "PuddingKC's Blog",
+      "url": "https://www.puddingkc.com/",
+      "cover": "https://list.yppp.net/d/image/2026-02-10-ec1d7c5381a52d9ed71e21b209b63f00.jpg",
+      "icon": "https://list.yppp.net/d/oss/image/i/2025/05/16/f3ce3c777f3df8d4cbb5041b515ab76b.webp",
+      "description": "愿你所热爱的依旧不减当年。",
+      "labels": [],
+      "posts": []
+    },
+    {
+      "title": "超危狼猫の小屋",
+      "url": "https://blog.cwlm.xyz/",
+      "cover": "https://list.yppp.net/d/image/9386b98729a1aaa63ff8d3063fa583da.webp",
+      "icon": "https://list.yppp.net/d/oss/image/i/2025/05/16/e18acd6237bf709aacb75d8fb25ebb4b.webp",
+      "description": "道路越泥泞 脚步越清晰",
+      "rss": "https://blog.cwlm.xyz/atom.xml",
+      "labels": [],
+      "posts": []
+    }
+  ]
 }
