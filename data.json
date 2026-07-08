@@ -41,12 +41,11 @@
       "posts": []
     },
     {
-      "title": "超危狼猫の小屋",
-      "url": "https://blog.cwlm.xyz/",
-      "cover": "https://list.yppp.net/d/image/9386b98729a1aaa63ff8d3063fa583da.webp",
-      "icon": "https://list.yppp.net/d/oss/image/i/2025/05/16/e18acd6237bf709aacb75d8fb25ebb4b.webp",
-      "description": "道路越泥泞 脚步越清晰",
-      "rss": "https://blog.cwlm.xyz/atom.xml",
+      "title": "miuo",
+      "url": "https://blog.miuo.me",
+      "cover": "https://list.yppp.net/d/cos/image/2d0e16dd0a713f145297d8c5f96da8c20a3fb798f037c4c79de935d1faba092e.png",
+      "icon": "https://list.yppp.net/d/cos/image/73affda50464a3448a7b7ba6746fba4684934f04222f9d8ed3b5217c644db847.webp",
+      "description": "记录文章、笔记、实验和暂时不想丢掉的内容。",
       "labels": [],
       "posts": []
     }
