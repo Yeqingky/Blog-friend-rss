@@ -41,11 +41,30 @@
       "posts": []
     },
     {
+      "title": "芝士游戏",
+      "url": "https://www.cheesegame.org",
+      "cover": "https://list.yppp.net/d/cos/image/300b8fbc9997d14f222e36d81b0088317f232fb42efe8196c4913070509afc70.webp",
+      "icon": "https://list.yppp.net/d/cos/image/a5373a5955e440a6c75b38850d02d7a5e6c97106d3534968f5e90ea6f0f81157.png",
+      "description": "芝士游戏是一个专注于分享各类游戏资源和教程的公益网站",
+      "rss-url": "https://www.cheesegame.org/feed",
+      "labels": [],
+      "posts": []
+    },
+    {
       "title": "miuo",
       "url": "https://blog.miuo.me",
       "cover": "https://list.yppp.net/d/cos/image/2d0e16dd0a713f145297d8c5f96da8c20a3fb798f037c4c79de935d1faba092e.png",
       "icon": "https://list.yppp.net/d/cos/image/73affda50464a3448a7b7ba6746fba4684934f04222f9d8ed3b5217c644db847.webp",
       "description": "记录文章、笔记、实验和暂时不想丢掉的内容。",
+      "labels": [],
+      "posts": []
+    },
+    {
+      "title": "Cheymin的小窝",
+      "url": "https://blog.346247.xyz",
+      "cover": "https://list.yppp.net/d/cos/image/484d442bccdd28e1dd088ef2a50b3004f0b6a4ae83049599aaf8e0d47b756624.webp",
+      "icon": "https://list.yppp.net/d/cos/image/5953c84fdc1f2bdf3ddc63b7426c400578f1474bb6adb5c9b35bcf6760b2ab99.png",
+      "description": "埋头苦干 沉默是金",
       "labels": [],
       "posts": []
     }
