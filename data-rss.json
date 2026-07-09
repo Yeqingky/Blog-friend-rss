@@ -1,6 +1,35 @@
 {
   "content": [
     {
+      "title": "芝士游戏",
+      "url": "https://www.cheesegame.org",
+      "cover": "https://list.yppp.net/d/cos/image/300b8fbc9997d14f222e36d81b0088317f232fb42efe8196c4913070509afc70.webp",
+      "icon": "https://list.yppp.net/d/cos/image/a5373a5955e440a6c75b38850d02d7a5e6c97106d3534968f5e90ea6f0f81157.png",
+      "description": "芝士游戏是一个专注于分享各类游戏资源和教程的公益网站",
+      "rss-url": "https://www.cheesegame.org/feed",
+      "labels": [],
+      "posts": [
+        {
+          "title": "[PC]颠覆回忆/Subversive Memories",
+          "link": "https://www.cheesegame.org/57777.html",
+          "published": "2026-07-09 02:43",
+          "summary": "《颠覆回忆》是一个由剧情推动的生存恐怖游戏，背景设定在上一次军事独裁统治时期的巴西。探索压迫性政权背后的暗室， […]"
+        },
+        {
+          "title": "[PC]小小修仙者/Little Immortal Cultivator",
+          "link": "https://www.cheesegame.org/57778.html",
+          "published": "2026-07-09 02:43",
+          "summary": "《小小修仙者》是一款修仙题材牌组构建的Roguelike游戏。你可选择剑修、法修、魔修等主流流派，在塔中修练突 […]"
+        },
+        {
+          "title": "[PC]-怀旧地下城-/UNDERGROUNDED",
+          "link": "https://www.cheesegame.org/57779.html",
+          "published": "2026-07-09 02:42",
+          "summary": "《Dungreed》原班人马打造的俯视角动作 RPG 肉鸽游戏。潜入高塔深处探索，收集并强化神器，击退成群涌来 […]"
+        }
+      ]
+    },
+    {
       "title": "小白",
       "url": "https://www.showby.top/",
       "cover": "https://list.yppp.net/d/image/00c53ea49a85a92355380cd6243620a6.webp",
@@ -402,6 +431,12 @@
       "labels": [],
       "posts": [
         {
+          "title": "如何使用1Panle创建Team Speak服务器",
+          "link": "https://blog.sakura.ink/posts/teamspeak3/",
+          "published": "2026-07-09 23:30",
+          "summary": "Git是一款分布式版本控制工具，可以帮助开发者管理代码版本、团队协作以及代码备份"
+        },
+        {
           "title": "Git教程",
           "link": "https://blog.sakura.ink/posts/git/",
           "published": "2026-06-27 12:30",
@@ -412,12 +447,6 @@
           "link": "https://blog.sakura.ink/posts/unity_vr/",
           "published": "2026-06-19 12:30",
           "summary": ""
-        },
-        {
-          "title": "App Store 订阅 ChatGPT 会员以及内购失败要怎么处理",
-          "link": "https://blog.sakura.ink/posts/subscribe-gpt/",
-          "published": "2026-05-18 13:00",
-          "summary": "没有现象中的那么难，沟通也无障碍"
         }
       ]
     },
