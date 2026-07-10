@@ -48,15 +48,6 @@
       "description": "记录文章、笔记、实验和暂时不想丢掉的内容。",
       "labels": [],
       "posts": []
-    },
-    {
-      "title": "Cheymin的小窝",
-      "url": "https://blog.346247.xyz",
-      "cover": "https://list.yppp.net/d/cos/image/484d442bccdd28e1dd088ef2a50b3004f0b6a4ae83049599aaf8e0d47b756624.webp",
-      "icon": "https://list.yppp.net/d/cos/image/5953c84fdc1f2bdf3ddc63b7426c400578f1474bb6adb5c9b35bcf6760b2ab99.png",
-      "description": "埋头苦干 沉默是金",
-      "labels": [],
-      "posts": []
     }
   ]
 }
