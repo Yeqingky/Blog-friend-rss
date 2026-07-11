@@ -150,6 +150,12 @@
       "labels": [],
       "posts": [
         {
+          "title": "Nginx 默认配置调优",
+          "link": "https://docs.yyyyt.top/articles/daily/2026/07/110.nginx-optimization.html",
+          "published": "2026-07-11",
+          "summary": "前言 Alice 的免费机迁移到 Yuusei 那边了,于是机器的数据也无了,刚好顺带做一篇 Nginx 调优教程. 服务商用的什么黑科技,Debian 13 纯系统只占用 76 M 内存,822 M 硬盘,还是 KVM 虚拟化的.bbb 的黑科技真 NB. 调优部分 1. 404 页面等不显示 Nginx 版本号 nginx.conf 2. 优化 S..."
+        },
+        {
           "title": "招行万事达人民币借记卡(普卡)办卡体验",
           "link": "https://docs.yyyyt.top/articles/daily/2026/07/070.cmb-mastercard-debit-card.html",
           "published": "2026-07-07",
@@ -160,12 +166,6 @@
           "link": "https://docs.yyyyt.top/articles/daily/2026/07/040.acck-jpsb-review.html",
           "published": "2026-07-04",
           "summary": "产品信息 JPSB-Mini CPU 1核 ｜ 内存 1024 M 硬盘 5 GB ｜ 带宽 1000M 1200G/月 ｜ 超出限速共享10Mbps 重置流量 ¥20.00 虚拟化架构: KVM IPv4 1个 ｜ IPv6(/64) 1个 ¥16.99/月 下单链接(AFF): https://acck.io/store/server?aff_co..."
-        },
-        {
-          "title": "暑假",
-          "link": "https://docs.yyyyt.top/blog/the_second_high_school/third_grade/summerholiday.html",
-          "published": "2026-06-24 03:35",
-          "summary": "日期: 开始: 2026 06 09 星期二 结束: N/A 高中的最后一场暑假. 1. 高考结束 高考结束了,总算是可以解放了!!!!!!!!!!!! 考得好过个好假期,考的差那就呵呵吧. 主打创新了属于是. 路过二中看到一堆学生还在返校,高三算是彻底不开了,不对,还有准高三. 2. 返校 6 月 24 日上午凭准考证入校,领取 招生考..."
         }
       ]
     },
