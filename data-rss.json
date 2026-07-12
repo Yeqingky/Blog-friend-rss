@@ -619,6 +619,34 @@
       ]
     },
     {
+      "title": "miuo",
+      "url": "https://miuo.me",
+      "cover": "https://list.yppp.net/d/cos/image/2d0e16dd0a713f145297d8c5f96da8c20a3fb798f037c4c79de935d1faba092e.png",
+      "icon": "https://list.yppp.net/d/cos/image/73affda50464a3448a7b7ba6746fba4684934f04222f9d8ed3b5217c644db847.webp",
+      "description": "记录文章、笔记、实验和暂时不想丢掉的内容。",
+      "labels": [],
+      "posts": [
+        {
+          "title": "Minecraft 最速极简开服指南",
+          "link": "https://miuo.me/posts/minecraft-fast-server-setup",
+          "published": "2026-07-10 16:00",
+          "summary": "基于 MCSManager 面板的 Minecraft 极简开服教程，从面板安装到性能优化与插件配置。"
+        },
+        {
+          "title": "Windows 自用软件与设置（长期更新）",
+          "link": "https://miuo.me/posts/windows-software-settings",
+          "published": "2026-07-04 10:05",
+          "summary": "记录 Windows 日常自用软件、外观设置和常用网站清单，方便重装系统或整理环境时参考。"
+        },
+        {
+          "title": "Windows 终端美化",
+          "link": "https://miuo.me/posts/windows-terminal-beautify",
+          "published": "2026-07-03 16:00",
+          "summary": "基于 YouTube 教程改进，使用 scoop 安装 JetBrainsMono Nerd Font、Fastfetch、chafa 等工具美化 Windows 终端。"
+        }
+      ]
+    },
+    {
       "title": "Dahi Blog",
       "url": "https://dahi.icu/",
       "cover": "https://list.yppp.net/d/image/7f7a5a2709b7bf6fe97cb91652990c3b.webp",

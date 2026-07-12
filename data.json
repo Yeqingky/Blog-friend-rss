@@ -41,11 +41,12 @@
       "posts": []
     },
     {
-      "title": "miuo",
-      "url": "https://blog.miuo.me",
-      "cover": "https://list.yppp.net/d/cos/image/2d0e16dd0a713f145297d8c5f96da8c20a3fb798f037c4c79de935d1faba092e.png",
-      "icon": "https://list.yppp.net/d/cos/image/73affda50464a3448a7b7ba6746fba4684934f04222f9d8ed3b5217c644db847.webp",
-      "description": "记录文章、笔记、实验和暂时不想丢掉的内容。",
+      "title": "博客大联盟",
+      "url": "https://bo.ke/",
+      "cover": "https://list.yppp.net/d/image/0d3efac91fd1350f8905ce18d0a85594.webp",
+      "icon": "https://list.yppp.net/d/cos/image/8d24e7a2809c334660813bce0cd30b17408bef21a6fa7a1f904902b112d963ab.png",
+      "description": "一个开放共享的全版本Minecraft下载站.",
+      "rss": "false",
       "labels": [],
       "posts": []
     }
