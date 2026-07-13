@@ -226,34 +226,6 @@
       ]
     },
     {
-      "title": "二叉树树",
-      "url": "https://2x.nz/",
-      "cover": "https://list.yppp.net/d/cos/image/163438c064f2e328a01cb7a3168c40a7d7f07b1b8206487a77070c8f3241825b.webp",
-      "icon": "https://q2.qlogo.cn/headimg_dl?dst_uin=2726730791&spec=5",
-      "description": "Protect What You Love!",
-      "labels": [],
-      "posts": [
-        {
-          "title": "EmDash，拉完了",
-          "link": "https://2x.nz/posts/emdash/",
-          "published": "2026-07-03",
-          "summary": "昨晚看到有群U说什么能部署在CF的WordPress，我看看怎么个事！"
-        },
-        {
-          "title": "我与你共度的七日 - 台本",
-          "link": "https://2x.nz/posts/7days-xiluo/",
-          "published": "2026-06-28",
-          "summary": "机密-001"
-        },
-        {
-          "title": "迁移Linux到新硬盘",
-          "link": "https://2x.nz/posts/move-linux/",
-          "published": "2026-06-12",
-          "summary": "从旧硬盘迁移Linux到新硬盘，包括硬盘对拷、UUID修复、GRUB引导重建和fstab更新"
-        }
-      ]
-    },
-    {
       "title": "B84F2246 的小站",
       "url": "https://blog.b84f2246.top/",
       "cover": "https://list.yppp.net/d/image/2026-04-11-ce8afff9442eca906a409db58b0242d4.webp",
@@ -571,6 +543,12 @@
       "labels": [],
       "posts": [
         {
+          "title": "【笔记】随便发发，不知有无看客，“心律失常与抗心律失常药”",
+          "link": "https://ashlord.com/archives/23",
+          "published": "2026-03-03 14:06",
+          "summary": "如何看懂心电图，对心电学原理有所了解，可先看这篇：https://ashlord.com/archives/22 有能力的看这个视频，虽然很久远了，但是讲的也不错： 还有国内视频平台一堆科普UP/博主，自行找视频了解学习。这些大佬的视频一般会配上或动画或手绘或精美的图片或导图，比我写的纯文字内容来的更有意思。 一、前言 医学知识，参考学习，如有不适，线下就医。 本文是关于心律失常方向，非常非常皮毛"
+        },
+        {
           "title": "申请e3扩容5T存储，出现Error trying to get OneDrive settings的过来看看，教你解决",
           "link": "https://ashlord.com/archives/24",
           "published": "2025-11-14 04:12",
@@ -581,12 +559,6 @@
           "link": "https://ashlord.com/archives/22",
           "published": "2025-10-26 01:53",
           "summary": "一、前言 本文内容只是输出关于心电图相关的结论与考点，同时涉及一些病理状态的心电。心电学机制太复杂，内容太多，需要的基础知识铺垫也太多，我能力有限没这个精力了。有的我能看懂，但是不知道怎么描述出来；而有的我一个字看不懂，就算了😇学会放过自己。 本文内容非常粗糙、简陋，作为科普读物是不合格的，所以定位也不在此。这是关于这一块我的学习记录与笔记，供以后我拿出来阅读与回忆之用。当然，不管什么身份都欢迎"
-        },
-        {
-          "title": "【笔记】“镇痛药和解热镇痛药”的学习记录与心得",
-          "link": "https://ashlord.com/archives/21",
-          "published": "2025-10-17 13:14",
-          "summary": "一、前言 还是那句话，对非专业人士，本文定位是一个厕所读物。具备一定科学性，但剔除了很多专业性很强、阅读壁垒跟门槛很高的词汇与概念。同时，又不深入探讨更基础的概念，对于具有争议性的学术流派不做比较与分析，所以具有一定局限性。同时也不太涉及临床用量与其他用药细节的讨论。 只是呈现在这一方面的，我的学习记录与整理归纳而已。在阅读过程中，你会觉得知识会很暴力的呈现出来，因为没有ppt或者视频配合，文字形"
         }
       ]
     },
