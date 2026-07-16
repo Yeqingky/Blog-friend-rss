@@ -217,6 +217,33 @@
       ]
     },
     {
+      "title": "二叉树树",
+      "url": "https://2x.nz/",
+      "icon": "https://q2.qlogo.cn/headimg_dl?dst_uin=2726730791&spec=5",
+      "description": "Protect What You Love!",
+      "labels": [],
+      "posts": [
+        {
+          "title": "第一篇 PagesCMS 构建的文章",
+          "link": "https://feed.2x.nz/posts/first/",
+          "published": "2026-07-04",
+          "summary": "PagesCMS可以代理您操作Github来撰写文章或存储任何内容，然后您可以接入各类网站生成器来上线您的博客/电商/社交网站"
+        },
+        {
+          "title": "神了！PagesCMS拯救静态博客！",
+          "link": "https://feed.2x.nz/posts/pagescms/",
+          "published": "2026-07-04",
+          "summary": "PagesCMS可以代理读写您的Github仓库，帮你创建，编辑文章，最后通过你喜欢的CDN发布他们！"
+        },
+        {
+          "title": "EmDash，拉完了",
+          "link": "https://feed.2x.nz/posts/emdash/",
+          "published": "2026-07-03",
+          "summary": "昨晚看到有群U说什么能部署在CF的WordPress，我看看怎么个事！"
+        }
+      ]
+    },
+    {
       "title": "B84F2246 的小站",
       "url": "https://blog.b84f2246.top/",
       "icon": "https://list.yppp.net/d/oss/image/i/2025/07/14/26b529a81d68d848066ed931739ff3e2.png",
