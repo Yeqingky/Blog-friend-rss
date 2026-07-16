@@ -674,6 +674,33 @@
           "summary": "PyTorch 安装和环境部署（Windows 平台 · 2026 版） 适用平台 ：Windows 10/11 覆盖方式 ：pip（推荐） / conda / 手动 CUDA+cuDNN 更新时间 ：2026-07-07 --- 学习目标 通过本文，你将掌握以下核心能力： - 理解 CPU 版与 G"
         }
       ]
+    },
+    {
+      "title": "闻絮语",
+      "url": "https://www.wxuyu.top/",
+      "icon": "https://list.yppp.net/d/cos/image/bff107d736eb20f7f6a31be610415326978a90b54d30bfbb0c458b428a400a46.png",
+      "description": "凡尘修行悟道，叩问仙缘之境",
+      "labels": [],
+      "posts": [
+        {
+          "title": "用元宝写一个ServiceWorker",
+          "link": "https://www.wxuyu.top/2026/04/nuxtserviceworker",
+          "published": "2026-04-21 06:00",
+          "summary": "该文章主要写了对于低价机器的试水，并提醒是超开类型的机器。在测试的过程中发现机器性能较高，且展示出机器的具体价格，并单独列出只有精简版未采用完整版测试。"
+        },
+        {
+          "title": "用Codex写一个热搜页面",
+          "link": "https://www.wxuyu.top/2026/04/nuxthotpage",
+          "published": "2026-04-13 06:00",
+          "summary": "该文章主要写了对于低价机器的试水，并提醒是超开类型的机器。在测试的过程中发现机器性能较高，且展示出机器的具体价格，并单独列出只有精简版未采用完整版测试。"
+        },
+        {
+          "title": "说说页面（Nuxt版本）",
+          "link": "https://www.wxuyu.top/2026/04/essaynuxtpage",
+          "published": "2026-04-11 06:00",
+          "summary": "该文章主要写了对于低价机器的试水，并提醒是超开类型的机器。在测试的过程中发现机器性能较高，且展示出机器的具体价格，并单独列出只有精简版未采用完整版测试。"
+        }
+      ]
     }
   ]
 }
