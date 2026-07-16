@@ -467,6 +467,12 @@
       "labels": [],
       "posts": [
         {
+          "title": "Win系统-Mac系统的使用感受+软件推荐",
+          "link": "https://www.micostar.cc/posts/win-mac/",
+          "published": "2026-07-16 21:02",
+          "summary": "本文介绍从Win电脑上手Mac电脑的一些基础操作、软件推荐"
+        },
+        {
           "title": "还在嫌弃Windows难用？不妨来体验一下隐藏功能",
           "link": "https://www.micostar.cc/posts/windows-powertoys/",
           "published": "2026-04-19 16:54",
@@ -477,12 +483,6 @@
           "link": "https://www.micostar.cc/posts/claudecode_beautify/",
           "published": "2026-02-26 23:02",
           "summary": "习惯了 IDE 的你，面对 Claude Code 原始的终端界面是否感到不适？本篇手把手教你从状态栏到字体全面美化 Claude Code，让命令行也能赏心悦目。"
-        },
-        {
-          "title": "ClaudeCode下载代理(Worker)",
-          "link": "https://www.micostar.cc/posts/claudecode_install_proxy/",
-          "published": "2026-02-24 23:15",
-          "summary": "通过 Cloudflare Worker 搭建 Claude Code 安装代理，解决国内无法直接下载的问题"
         }
       ]
     },
