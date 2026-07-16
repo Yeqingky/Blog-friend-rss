@@ -3,60 +3,43 @@
     {
       "title": "星月Minecraft版本库",
       "url": "https://spectrollay.github.io/minecraft_repository/",
-      "cover": "https://list.yppp.net/d/image/0d3efac91fd1350f8905ce18d0a85594.webp",
       "icon": "https://list.yppp.net/d/oss/image/i/2025/05/16/49763cf75920c5aa7ad40ca76d30af47.webp",
       "description": "一个开放共享的全版本Minecraft下载站.",
-      "rss": "false",
-      "labels": [],
       "posts": []
     },
     {
       "title": "大方博客",
       "url": "https://blog.mmp.cc/",
-      "cover": "https://list.yppp.net/d/image/d248c5e2241adefe42180e2365984d2f.webp",
       "icon": "https://blog.mmp.cc/wp-content/uploads/2024/11/df.png",
       "description": "实用建站教程与资源分享",
-      "rss": "false",
-      "labels": [],
       "posts": []
     },
     {
       "title": "PuddingKC's Blog",
       "url": "https://www.puddingkc.com/",
-      "cover": "https://list.yppp.net/d/image/2026-02-10-ec1d7c5381a52d9ed71e21b209b63f00.jpg",
       "icon": "https://list.yppp.net/d/oss/image/i/2025/05/16/f3ce3c777f3df8d4cbb5041b515ab76b.webp",
       "description": "愿你所热爱的依旧不减当年。",
-      "rss": "false",
-      "labels": [],
       "posts": []
     },
     {
       "title": "博客中心",
       "url": "https://bokehub.com/home",
-      "cover": "https://list.yppp.net/d/image/2025-12-29-42bed3a0879abbb60c49c2a6adb37e2c.jpg",
       "icon": "https://list.yppp.net/d/image/2025-12-29-e8ed8130df491d55497fb7449305bbdf.png",
       "description": "这里是博客世界的中心，更是思想的回声谷。",
-      "rss": "false",
-      "labels": [],
       "posts": []
     },
     {
       "title": "博客大联盟",
       "url": "https://bo.ke/",
-      "cover": "https://list.yppp.net/d/image/0d3efac91fd1350f8905ce18d0a85594.webp",
       "icon": "https://list.yppp.net/d/cos/image/8d24e7a2809c334660813bce0cd30b17408bef21a6fa7a1f904902b112d963ab.png",
       "description": "一个开放共享的全版本Minecraft下载站.",
-      "rss": "false",
-      "labels": [],
       "posts": []
     },
     {
       "title": "二叉树树",
       "url": "https://2x.nz/",
-      "cover": "https://list.yppp.net/d/cos/image/163438c064f2e328a01cb7a3168c40a7d7f07b1b8206487a77070c8f3241825b.webp",
       "icon": "https://q2.qlogo.cn/headimg_dl?dst_uin=2726730791&spec=5",
       "description": "Protect What You Love!",
-      "labels": [],
       "posts": []
     }
   ]

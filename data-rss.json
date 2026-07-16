@@ -3,11 +3,8 @@
     {
       "title": "芝士游戏",
       "url": "https://www.cheesegame.org",
-      "cover": "https://list.yppp.net/d/cos/image/300b8fbc9997d14f222e36d81b0088317f232fb42efe8196c4913070509afc70.webp",
       "icon": "https://list.yppp.net/d/cos/image/a5373a5955e440a6c75b38850d02d7a5e6c97106d3534968f5e90ea6f0f81157.png",
       "description": "芝士游戏是一个专注于分享各类游戏资源和教程的公益网站",
-      "rss-url": "https://www.cheesegame.org/feed",
-      "labels": [],
       "posts": [
         {
           "title": "[PC]暖房派对/HouseWarming",
@@ -32,10 +29,8 @@
     {
       "title": "小白",
       "url": "https://www.showby.top/",
-      "cover": "https://list.yppp.net/d/image/00c53ea49a85a92355380cd6243620a6.webp",
       "icon": "https://list.yppp.net/d/oss/image/i/2025/05/16/9f72b4470f6b08da4a5e393e6216ee17.webp",
       "description": "Ciallo～(∠・ω< )⌒☆",
-      "labels": [],
       "posts": [
         {
           "title": "把博客从wordpress迁移到Astro+Mizuki",
@@ -60,10 +55,8 @@
     {
       "title": "Yunsen的小窝",
       "url": "https://blog.imysen.com/",
-      "cover": "https://list.yppp.net/d/cdn/Lanzou_Premium/2026-01-23-83ab555e600377f9d24370919edbf278.webp",
       "icon": "https://img.alicdn.com/bao/uploaded/i4/O1CN01TWOpM42DSyY5nC0hM_!!0-mtopupload.jpg",
       "description": "行之，皆为乐意",
-      "labels": [],
       "posts": [
         {
           "title": "使用AWS Free T3小鸡搭建FRP（通用FRP搭建教程）",
@@ -88,10 +81,8 @@
     {
       "title": "Wlcheng’ Life",
       "url": "https://wlcheng.cc/",
-      "cover": "https://list.yppp.net/d/image/cb48e599f1e25c96e7ef22e5621e6ee2.webp",
       "icon": "https://list.yppp.net/d/oss/image/i/2025/05/16/be1678bfaaed24b027c862b734d970bb.webp",
       "description": "来日方长，何惧车遥马慢",
-      "labels": [],
       "posts": [
         {
           "title": "DoIt 友链与音乐播放器样式自定义记录",
@@ -116,10 +107,8 @@
     {
       "title": "r1a dev",
       "url": "https://blog.oneall.eu.org/",
-      "cover": "https://list.yppp.net/d/image/fb8e2967b33d00e2a27d29ab6820c5d4.webp",
       "icon": "https://list.yppp.net/d/oss/image/i/2025/05/16/3afd10d271aee35cc24b0bbf84556c65.webp",
       "description": "r1a的开发记录/博客",
-      "labels": [],
       "posts": [
         {
           "title": "一个Go写的端口转发工具，非常适合NAT服务器使用",
@@ -144,10 +133,8 @@
     {
       "title": "yyyyt的文档站",
       "url": "https://docs.yyyyt.top/",
-      "cover": "https://list.yppp.net/d/image/a156c76259f807d195fa44e9bea2b7e0.webp",
       "icon": "https://list.yppp.net/d/oss/image/i/2025/07/02/1c3182dbab127980a9befb10842c90fe.avif",
       "description": "Bad or Worse",
-      "labels": [],
       "posts": [
         {
           "title": "Nginx 默认配置调优",
@@ -172,10 +159,8 @@
     {
       "title": "fishcpy的小破站",
       "url": "https://blog.fis.ink/",
-      "cover": "https://list.yppp.net/d/image/07058a0e1d9945f20dd01a3432182c6c.webp",
       "icon": "https://www.fis.ink/img/logo.png",
       "description": "非淡泊无以明志，非宁静无以致远",
-      "labels": [],
       "posts": [
         {
           "title": "更新随机图API",
@@ -200,10 +185,8 @@
     {
       "title": "LaoKey's Blog",
       "url": "https://www.laokey.com/",
-      "cover": "https://list.yppp.net/d/image/78d7339fa716c5693dc11a656ffa4ac1.webp",
       "icon": "https://list.yppp.net/d/oss/image/i/2025/07/02/7c253f2068cd473ad147807072a09ae6.ico",
       "description": "关注信息安全",
-      "labels": [],
       "posts": [
         {
           "title": "PassWall 负载均衡 HAProxy 保姆级设置",
@@ -228,10 +211,8 @@
     {
       "title": "B84F2246 的小站",
       "url": "https://blog.b84f2246.top/",
-      "cover": "https://list.yppp.net/d/image/2026-04-11-ce8afff9442eca906a409db58b0242d4.webp",
       "icon": "https://list.yppp.net/d/oss/image/i/2025/07/14/26b529a81d68d848066ed931739ff3e2.png",
       "description": "TECH OTAKUS SAVE THE WORLD!",
-      "labels": [],
       "posts": [
         {
           "title": "A卡在Arch下安装FAH7.6.21",
@@ -256,11 +237,8 @@
     {
       "title": "超危狼猫の小屋",
       "url": "https://blog.cwlm.xyz/",
-      "cover": "https://list.yppp.net/d/image/9386b98729a1aaa63ff8d3063fa583da.webp",
       "icon": "https://list.yppp.net/d/oss/image/i/2025/05/16/e18acd6237bf709aacb75d8fb25ebb4b.webp",
       "description": "道路越泥泞 脚步越清晰",
-      "rss": "https://blog.cwlm.xyz/atom.xml",
-      "labels": [],
       "posts": [
         {
           "title": "Windows访问WSL的 Root目录权限不足的问题",
@@ -285,10 +263,8 @@
     {
       "title": "青序栈",
       "url": "https://www.qixz.cn/",
-      "cover": "https://list.yppp.net/d/image/2026-01-02-08969b23f3aaeb090ec860010169aa1f.webp",
       "icon": "https://list.yppp.net/d/image/2026-01-02-bab3b76c4a2b974cf47068cd52831e47.svg",
       "description": "青序成栈·向简而生",
-      "labels": [],
       "posts": [
         {
           "title": "解决Twikoo获取QQ昵称失败：修改twikoo.min.js配置指南",
@@ -313,10 +289,8 @@
     {
       "title": "百里博客",
       "url": "https://blog.my0811.cn/",
-      "cover": "https://list.yppp.net/d/image/f0170b5d9c5b3d7eb3d941be05e5976b.webp",
       "icon": "https://q2.qlogo.cn/headimg_dl?dst_uin=3166269605&spec=5",
       "description": "Everything as Code",
-      "labels": [],
       "posts": [
         {
           "title": "记一次对喵窝计账的逆向分析",
@@ -341,10 +315,8 @@
     {
       "title": "Tavre Blog",
       "url": "https://blog.tavr.top/",
-      "cover": "https://list.yppp.net/d/image/2025-12-26-83604ddc820ed0470a4d084d47703463.png",
       "icon": "https://q1.qlogo.cn/g?b=qq&nk=2987304764&s=640",
       "description": "茫茫人海 我与你相遇",
-      "labels": [],
       "posts": [
         {
           "title": "半夜有感 便有此文",
@@ -369,10 +341,8 @@
     {
       "title": "AirTouch's Blog",
       "url": "https://www.xsl.im/",
-      "cover": "https://list.yppp.net/d/image/2026-04-11-fcd6524642e1029f6c07ce3590c58397.webp",
       "icon": "https://list.yppp.net/d/image/bff442311573333216e74fd6721588e1.webp",
       "description": "岩间琉璃云间月",
-      "labels": [],
       "posts": [
         {
           "title": "DNSMgr——聚合管理所有域名DNS解析+自动续签SSL证书并部署",
@@ -397,10 +367,8 @@
     {
       "title": "鈴奈咲桜のBlog",
       "url": "https://blog.sakura.ink",
-      "cover": "https://list.yppp.net/d/image/2026-04-11-c2030527b96ab9ea46e356cba35f914d.webp",
       "icon": "https://list.yppp.net/d/image/02a557227cc0bbf982889514947cc005.webp",
       "description": "愛することを忘れないで",
-      "labels": [],
       "posts": [
         {
           "title": "如何使用1Panle创建Team Speak服务器",
@@ -425,10 +393,8 @@
     {
       "title": "浪小舟",
       "url": "https://blog.lonzov.top/",
-      "cover": "https://list.yppp.net/d/image/2026-04-11-04bd4578b98a62a790ff1477cf270659.webp",
       "icon": "https://img.fastmirror.net/s/2025/09/12/68c39893a84aa.png",
       "description": "向利而生，随心而活",
-      "labels": [],
       "posts": [
         {
           "title": "生不逢时的Adam7",
@@ -453,10 +419,8 @@
     {
       "title": "轻风blog",
       "url": "https://www.qingfengnb.cn/",
-      "cover": "https://list.yppp.net/d/image/2026-02-10-9cc93102c4aa2ef4c9a9e590ae24dffd.jpg",
       "icon": "https://list.yppp.net/d/image/8bc6eb68f554142ae163fe592212f9db.webp",
       "description": "茫茫人海，多么幸运才能遇见你！",
-      "labels": [],
       "posts": [
         {
           "title": "如果一只鸡，没进肯德基大企业，算不算失败？",
@@ -481,10 +445,8 @@
     {
       "title": "Betsy Blog",
       "url": "https://www.micostar.cc/",
-      "cover": "https://list.yppp.net/d/cdn/jianguoyun/2026-04-13-67224903bdcbb5e138f5b1164fa1989b.webp",
       "icon": "https://img.micostar.cc/images/avatar.webp",
       "description": "爱我所爱，我们是彼此永远的动力",
-      "labels": [],
       "posts": [
         {
           "title": "还在嫌弃Windows难用？不妨来体验一下隐藏功能",
@@ -509,10 +471,8 @@
     {
       "title": "b23.kim",
       "url": "https://www.b23.kim/",
-      "cover": "https://list.yppp.net/d/image/2026-02-10-4c198cf78375c012f948db4e0dac6bb4.jpg",
       "icon": "https://list.yppp.net/d/cdn/Lanzou_Premium/2026-01-22-2d9a2ddef527e5a9767e8de5272d0e04.png",
       "description": "请输入内容404发电。记住「黑客是客，博客也是客」",
-      "labels": [],
       "posts": [
         {
           "title": "关于我用腾讯云cos签名时的坑",
@@ -537,10 +497,8 @@
     {
       "title": "solaireh3",
       "url": "https://ashlord.com/",
-      "cover": "https://list.yppp.net/d/image/95b254f8885d5cfaab24c158e7cf17ba.webp",
       "icon": "https://list.yppp.net/d/oss/image/i/2025/07/02/5947d423c762fcb37e9f150c2c5deb34.gif",
       "description": "愛しの君とこの世のはたて",
-      "labels": [],
       "posts": [
         {
           "title": "【笔记】随便发发，不知有无看客，“心律失常与抗心律失常药”",
@@ -565,10 +523,8 @@
     {
       "title": "Hexvork Blog",
       "url": "https://www.hexvork.com",
-      "cover": "https://list.yppp.net/d/image/2026-05-06-c24f975b4094f69cede98bae2df9cbfa.png",
       "icon": "https://list.yppp.net/d/image/2026-05-06-e8bc9b10b21b4600139fa84b0ee84c9b.png",
       "description": "分享网络优化、开发实战和工具评测，用人话讲技术。",
-      "labels": [],
       "posts": [
         {
           "title": "部署Waline，给你的Astro博客加上Waline评论，实现说说等高级功能",
@@ -593,10 +549,8 @@
     {
       "title": "miuo",
       "url": "https://miuo.me",
-      "cover": "https://list.yppp.net/d/cos/image/2d0e16dd0a713f145297d8c5f96da8c20a3fb798f037c4c79de935d1faba092e.png",
       "icon": "https://list.yppp.net/d/cos/image/73affda50464a3448a7b7ba6746fba4684934f04222f9d8ed3b5217c644db847.webp",
       "description": "记录文章、笔记、实验和暂时不想丢掉的内容。",
-      "labels": [],
       "posts": [
         {
           "title": "Minecraft 最速极简开服指南",
@@ -621,10 +575,8 @@
     {
       "title": "Dahi Blog",
       "url": "https://dahi.icu/",
-      "cover": "https://list.yppp.net/d/image/7f7a5a2709b7bf6fe97cb91652990c3b.webp",
       "icon": "https://list.yppp.net/d/oss/image/i/2025/07/14/8656772d864ec38434a0c2776804b3b3.png",
       "description": "時光流轉，願你有一天能與重要的人重逢",
-      "labels": [],
       "posts": [
         {
           "title": "分析一个两年前发现的酷安社区漏洞，无视图片外链域限制发帖",
@@ -649,10 +601,8 @@
     {
       "title": "Cheymin的小窝",
       "url": "https://blog.346247.xyz",
-      "cover": "https://list.yppp.net/d/cos/image/484d442bccdd28e1dd088ef2a50b3004f0b6a4ae83049599aaf8e0d47b756624.webp",
       "icon": "https://list.yppp.net/d/cos/image/5953c84fdc1f2bdf3ddc63b7426c400578f1474bb6adb5c9b35bcf6760b2ab99.png",
       "description": "埋头苦干 沉默是金",
-      "labels": [],
       "posts": [
         {
           "title": "Cloud Mail APP项目介绍",
@@ -671,6 +621,32 @@
           "link": "https://blog.346247.xyz/posts/232a724/",
           "published": "2026-06-12 06:03",
           "summary": "前言前端时间自己搭建了一个网盘 还不错 分享一下 <img"
+        }
+      ]
+    },
+    {
+      "title": "Zorro‘s Blog",
+      "url": "https://blog.zuodev.top/",
+      "icon": "https://list.yppp.net/d/cos/image/badd5a8c66010ddbfcdba4ddac0e67c23d6e160a2a4a432f8e5642534e489616.webp",
+      "description": "记录生活、分享技术!",
+      "posts": [
+        {
+          "title": "CNN?-卷积神经网络是怎么工作的？",
+          "link": "https://blog.zuodev.top/article/8",
+          "published": "2026-07-10 03:04",
+          "summary": "卷积神经网络是怎么工作的？从 LeNet 到 GTN，读懂 CNN 的核心逻辑 摘要 如果说深度学习改变了计算机视觉，那么 卷积神经网络（Convolutional Neural Network，CNN） 就是这场变化最早、也最关键的推动者之一。 今天我们提到图像分类、目标检测、OCR、医学影像分析，几乎都绕不开 CNN。它之所以重要，不"
+        },
+        {
+          "title": "小样本植物病害识别系统",
+          "link": "https://blog.zuodev.top/article/7",
+          "published": "2026-07-09 09:43",
+          "summary": "小样本植物病害识别系统 —— 基于 MobileViT-S + 知识蒸馏 + Gradio 的完整实验与演示闭环 摘要 本项目围绕 小样本植物病害识别 展开，基于 PlantVillage 数据集构建了一个从数据预处理、baseline 训练、教师知识蒸馏、统一评估、Grad-CAM 可解释性分析到 Gradio 在线演示的完整闭环系统。项目的"
+        },
+        {
+          "title": "PyTorch 安装和环境部署",
+          "link": "https://blog.zuodev.top/article/6",
+          "published": "2026-07-07 09:33",
+          "summary": "PyTorch 安装和环境部署（Windows 平台 · 2026 版） 适用平台 ：Windows 10/11 覆盖方式 ：pip（推荐） / conda / 手动 CUDA+cuDNN 更新时间 ：2026-07-07 --- 学习目标 通过本文，你将掌握以下核心能力： - 理解 CPU 版与 G"
         }
       ]
     }
