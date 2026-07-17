@@ -8,22 +8,22 @@
       "labels": [],
       "posts": [
         {
-          "title": "[PC]暖房派对/HouseWarming",
-          "link": "https://www.cheesegame.org/57804.html",
-          "published": "2026-07-11 12:59",
-          "summary": "Brian Lewis 买下一栋老房子，希望开始安静而有秩序的生活。但在第一个夜晚，房子就开始变得诡异……原本 […]"
+          "title": "[PC]1915滩头入侵：加里波利/Beach Invasion 1915-Gallipoli",
+          "link": "https://www.cheesegame.org/57829.html",
+          "published": "2026-07-17 08:19",
+          "summary": "在这款第一次世界大战题材的FPS游戏中，保卫加里波利海岸，对抗登陆的敌军！使用标志性的一战武器，布置地雷、炸药 […]"
         },
         {
-          "title": "[PC]工程大湿 The Enjenir/The Enjenir: The Engineering Physics Building Simulator",
-          "link": "https://www.cheesegame.org/57805.html",
-          "published": "2026-07-11 12:58",
-          "summary": "在这款沙盒物理建造游戏中测试你的工程和解决问题的技能！享受完全无网格的3D沙盒建造自由，结合搞笑的布偶第三人称 […]"
+          "title": "[PC]森林逃生：末班列车/Forest Escape: Last Train) (Forest Escape: Last Train",
+          "link": "https://www.cheesegame.org/57830.html",
+          "published": "2026-07-17 08:19",
+          "summary": "《森林逃生：末班列车》是一款支持 1-4 人联机的多人生存合作游戏。迷雾森林、疯狂典狱长的超现实心魔、随时可能 […]"
         },
         {
-          "title": "[PC]鱼我一起: 水愈时光/With Me: Aquatic Time",
-          "link": "https://www.cheesegame.org/57806.html",
-          "published": "2026-07-11 12:57",
-          "summary": "《鱼我一起：水愈时光》是一款水族题材的游戏化时间管理工具。伴随治愈的 Lo-fi 音乐和白噪音，鱼儿们随水游弋 […]"
+          "title": "[PC]腐蚀合成/Synthesis of Corruption",
+          "link": "https://www.cheesegame.org/57831.html",
+          "published": "2026-07-17 08:18",
+          "summary": "暗能粒子合成失败——紧急协议已启动。 此刻，你——姗姗来迟，孤身一人——必须踏上一座科学与理智已然崩塌的设施。 […]"
         }
       ]
     },
@@ -298,33 +298,6 @@
       ]
     },
     {
-      "title": "青序栈",
-      "url": "https://www.qixz.cn/",
-      "icon": "https://list.yppp.net/d/image/2026-01-02-bab3b76c4a2b974cf47068cd52831e47.svg",
-      "description": "青序成栈·向简而生",
-      "labels": [],
-      "posts": [
-        {
-          "title": "解决Twikoo获取QQ昵称失败：修改twikoo.min.js配置指南",
-          "link": "https://www.qixz.cn/2026/twikoo-qqnick",
-          "published": "2026-02-23 04:00",
-          "summary": "本文介绍如何通过修改twikoo.min.js文件来解决无法获取QQ昵称的问题，帮你快速恢复评论系统的正常使用。"
-        },
-        {
-          "title": "个人公开服务与项目展示",
-          "link": "https://www.qixz.cn/2026/services-and-projects",
-          "published": "2026-02-10 11:10",
-          "summary": "这里是我维护的公开服务与开源项目集合，涵盖多个技术领域，致力于为开发者社区提供实用工具和服务。"
-        },
-        {
-          "title": "制作属于你的评论表情包：从设计到部署的完整教程",
-          "link": "https://www.qixz.cn/2026/qingzhu-emoji",
-          "published": "2026-01-10 16:00",
-          "summary": "本教程详细讲解了如何从设计到部署，制作属于自己的个性化评论表情包。通过Gemini AI、美图秀秀、微软图片编辑器、图小小等工具，你将学会如何创建、切割、处理、压缩和部署自己的表情包，为评论区增添趣味性和个性化特色。"
-        }
-      ]
-    },
-    {
       "title": "百里博客",
       "url": "https://blog.my0811.cn/",
       "icon": "https://q2.qlogo.cn/headimg_dl?dst_uin=3166269605&spec=5",
@@ -521,6 +494,12 @@
       "labels": [],
       "posts": [
         {
+          "title": "Three.js测试",
+          "link": "https://www.b23.kim/details/f64adab8c5f9.html",
+          "published": "2026-07-16 10:07",
+          "summary": "测试模型渲染与展示 <div id=\""
+        },
+        {
           "title": "关于我用腾讯云cos签名时的坑",
           "link": "https://www.b23.kim/details/0aed3419045d.html",
           "published": "2026-07-01 14:58",
@@ -531,12 +510,6 @@
           "link": "https://www.b23.kim/details/2990befbf34e.html",
           "published": "2026-06-24 14:44",
           "summary": "——从80个“马化腾”谈管理哲学。 今天我闲的无聊，想着去“一网通查”看马化腾。结果搜出来80个同名的，其中有一个肯定是腾讯CEO了。 那剩下的那79个人呢？想象一下，如果你是其中一个马化腾，然后……别人：你叫什么名字？<"
-        },
-        {
-          "title": "互联网公司全都是“广告公司”",
-          "link": "https://www.b23.kim/details/7fd3f1d1f713.html",
-          "published": "2026-06-21 01:46",
-          "summary": "<iframe src=\"//player.bilibili.com/player.html?isOutside=true&aid=704403276&bvid=BV12m4y1u7nJ&cid=12"
         }
       ]
     },
