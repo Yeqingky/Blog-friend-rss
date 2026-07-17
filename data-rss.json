@@ -224,22 +224,22 @@
       "labels": [],
       "posts": [
         {
+          "title": "整个博客非得塞到网站源码吗？不！纯前端的前后端分离全部搞定！",
+          "link": "https://2x.nz/posts/micro-blog-service/",
+          "published": "2026-07-17",
+          "summary": "很久很久以前，我的网站一直都是把博文和图片资源当做源码，封装在整个源码仓库里的。这会导致仅仅更新一行代码，CI/CD"
+        },
+        {
           "title": "第一篇 PagesCMS 构建的文章",
-          "link": "https://feed.2x.nz/posts/first/",
+          "link": "https://2x.nz/posts/first/",
           "published": "2026-07-04",
           "summary": "PagesCMS可以代理您操作Github来撰写文章或存储任何内容，然后您可以接入各类网站生成器来上线您的博客/电商/社交网站"
         },
         {
           "title": "神了！PagesCMS拯救静态博客！",
-          "link": "https://feed.2x.nz/posts/pagescms/",
+          "link": "https://2x.nz/posts/pagescms/",
           "published": "2026-07-04",
           "summary": "PagesCMS可以代理读写您的Github仓库，帮你创建，编辑文章，最后通过你喜欢的CDN发布他们！"
-        },
-        {
-          "title": "EmDash，拉完了",
-          "link": "https://feed.2x.nz/posts/emdash/",
-          "published": "2026-07-03",
-          "summary": "昨晚看到有群U说什么能部署在CF的WordPress，我看看怎么个事！"
         }
       ]
     },
