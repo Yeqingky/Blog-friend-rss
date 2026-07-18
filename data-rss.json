@@ -8,22 +8,22 @@
       "labels": [],
       "posts": [
         {
-          "title": "[PC]1915滩头入侵：加里波利/Beach Invasion 1915-Gallipoli",
-          "link": "https://www.cheesegame.org/57829.html",
-          "published": "2026-07-17 08:19",
-          "summary": "在这款第一次世界大战题材的FPS游戏中，保卫加里波利海岸，对抗登陆的敌军！使用标志性的一战武器，布置地雷、炸药 […]"
+          "title": "[PC]Moss：遗落圣物/Moss: The Forgotten Relic",
+          "link": "https://www.cheesegame.org/57838.html",
+          "published": "2026-07-18 12:21",
+          "summary": "《Moss：遗落圣物》是一款情感充沛、氛围浓厚的冒险游戏，背景设定在一本活灵活现的故事书中，洋溢着神话色彩与古 […]"
         },
         {
-          "title": "[PC]森林逃生：末班列车/Forest Escape: Last Train) (Forest Escape: Last Train",
-          "link": "https://www.cheesegame.org/57830.html",
-          "published": "2026-07-17 08:19",
-          "summary": "《森林逃生：末班列车》是一款支持 1-4 人联机的多人生存合作游戏。迷雾森林、疯狂典狱长的超现实心魔、随时可能 […]"
+          "title": "[PC]采矿工厂小队/Ore Factory Squad",
+          "link": "https://www.cheesegame.org/57839.html",
+          "published": "2026-07-18 12:20",
+          "summary": "《矿石工厂小队》是一款合作型采矿和工厂建设游戏，核心玩法为程序生成的采矿系统！单人游玩或与朋友一起玩，购买地产 […]"
         },
         {
-          "title": "[PC]腐蚀合成/Synthesis of Corruption",
-          "link": "https://www.cheesegame.org/57831.html",
-          "published": "2026-07-17 08:18",
-          "summary": "暗能粒子合成失败——紧急协议已启动。 此刻，你——姗姗来迟，孤身一人——必须踏上一座科学与理智已然崩塌的设施。 […]"
+          "title": "[PC]鸟语森林/Feather Land",
+          "link": "https://www.cheesegame.org/57840.html",
+          "published": "2026-07-18 12:16",
+          "summary": "《鸟语森林》是一款温馨治愈的放置类专注伴侣。你的每一次学习与工作，都能让这个宁静的鸟类世界不断成长。在这里，你 […]"
         }
       ]
     },
@@ -143,22 +143,22 @@
       "labels": [],
       "posts": [
         {
+          "title": "第一章 陷阱",
+          "link": "https://docs.yyyyt.top/books/unusual-world/C_001.html",
+          "published": "2026-07-18 15:31",
+          "summary": "紫是一位高中生. 有一天,闲的没事了去郊区闲逛,但是似乎脚底下不知道为啥支撑不稳陷进去了,掉进了一个陷阱.然后似乎被什么东西拽下去了一样,然后又忽然有一股踩空的感觉,从天上掉了下来. 紫有点不知所措,疯狂挥舞着手臂,还有股窒息感. 忽然感觉像是有啥东西在地下拖着一样,下落速度明显慢了许多. 呼呼呼 紫有点闷得慌,喘了几口气,好在背..."
+        },
+        {
+          "title": "远离草台班子",
+          "link": "https://docs.yyyyt.top/articles/daily/2026/07/180.far-away-monkey-group.html",
+          "published": "2026-07-18",
+          "summary": "知难而进,知难而退. 劝一次,莫多劝. 尊重他人命运,让花成花,让草成草. 明知故犯莫多劝,敷衍了事结话题. 形而上学,不行退学. 草台班子莫靠近,莫名禁言别生气. 历史言论扒一扒,笑话乐子常常有. 永久保存要牢记,证明容易解释难. 内容一致是原则,不要学习小红书. 远离草台班子,人人有责! The End"
+        },
+        {
           "title": "Nginx 默认配置调优",
           "link": "https://docs.yyyyt.top/articles/daily/2026/07/110.nginx-optimization.html",
           "published": "2026-07-11",
           "summary": "前言 Alice 的免费机迁移到 Yuusei 那边了,于是机器的数据也无了,刚好顺带做一篇 Nginx 调优教程. 服务商用的什么黑科技,Debian 13 纯系统只占用 76 M 内存,822 M 硬盘,还是 KVM 虚拟化的.bbb 的黑科技真 NB. 调优部分 1. 404 页面等不显示 Nginx 版本号 nginx.conf 2. 优化 S..."
-        },
-        {
-          "title": "招行万事达人民币借记卡(普卡)办卡体验",
-          "link": "https://docs.yyyyt.top/articles/daily/2026/07/070.cmb-mastercard-debit-card.html",
-          "published": "2026-07-07",
-          "summary": "事情之外的意外 先告诉你们个事情: 不要使用 bing 等搜索引擎搜索公安局电话之类的,一定要进入对应官方网页(认准 gov.cn 域名和事业单位标),没有一律当成非官方网站.bing 很容易给你搜到假的,还好被运营商直接拦截了. 前言 QNMD 邮储卡,正常境外消费问我是不是洗钱没谁了,四块钱至于吗? 如果你有条件的话不要在河南开卡!风控 TM 很死..."
-        },
-        {
-          "title": "ACCK JPSB 测评",
-          "link": "https://docs.yyyyt.top/articles/daily/2026/07/040.acck-jpsb-review.html",
-          "published": "2026-07-04",
-          "summary": "产品信息 JPSB-Mini CPU 1核 ｜ 内存 1024 M 硬盘 5 GB ｜ 带宽 1000M 1200G/月 ｜ 超出限速共享10Mbps 重置流量 ¥20.00 虚拟化架构: KVM IPv4 1个 ｜ IPv6(/64) 1个 ¥16.99/月 下单链接(AFF): https://acck.io/store/server?aff_co..."
         }
       ]
     },
@@ -294,6 +294,33 @@
           "link": "https://blog.cwlm.xyz/archives/pE7pW7gB/",
           "published": "2025-04-11 18:23",
           "summary": ""
+        }
+      ]
+    },
+    {
+      "title": "青序栈",
+      "url": "https://www.qixz.cn/",
+      "icon": "https://list.yppp.net/d/image/2026-01-02-bab3b76c4a2b974cf47068cd52831e47.svg",
+      "description": "青序成栈·向简而生",
+      "labels": [],
+      "posts": [
+        {
+          "title": "解决Twikoo获取QQ昵称失败：修改twikoo.min.js配置指南",
+          "link": "https://www.qixz.cn/2026/twikoo-qqnick",
+          "published": "2026-02-23 04:00",
+          "summary": "本文介绍如何通过修改twikoo.min.js文件来解决无法获取QQ昵称的问题，帮你快速恢复评论系统的正常使用。"
+        },
+        {
+          "title": "个人公开服务与项目展示",
+          "link": "https://www.qixz.cn/2026/services-and-projects",
+          "published": "2026-02-10 11:10",
+          "summary": "这里是我维护的公开服务与开源项目集合，涵盖多个技术领域，致力于为开发者社区提供实用工具和服务。"
+        },
+        {
+          "title": "制作属于你的评论表情包：从设计到部署的完整教程",
+          "link": "https://www.qixz.cn/2026/qingzhu-emoji",
+          "published": "2026-01-10 16:00",
+          "summary": "本教程详细讲解了如何从设计到部署，制作属于自己的个性化评论表情包。通过Gemini AI、美图秀秀、微软图片编辑器、图小小等工具，你将学会如何创建、切割、处理、压缩和部署自己的表情包，为评论区增添趣味性和个性化特色。"
         }
       ]
     },
