@@ -8,22 +8,22 @@
       "labels": [],
       "posts": [
         {
-          "title": "[PC]Moss：遗落圣物/Moss: The Forgotten Relic",
-          "link": "https://www.cheesegame.org/57838.html",
-          "published": "2026-07-18 12:21",
-          "summary": "《Moss：遗落圣物》是一款情感充沛、氛围浓厚的冒险游戏，背景设定在一本活灵活现的故事书中，洋溢着神话色彩与古 […]"
+          "title": "[PC]刺客信条：影/Assassin&#039;s Creed Shadows voices38",
+          "link": "https://www.cheesegame.org/57916.html",
+          "published": "2026-07-19 15:53",
+          "summary": "在日本战国背景下，体验史诗般的动作冒险故事！变身夺命忍者刺客，化为强大传奇武士，在一片混沌的时代，进入美丽的开 […]"
         },
         {
-          "title": "[PC]采矿工厂小队/Ore Factory Squad",
-          "link": "https://www.cheesegame.org/57839.html",
-          "published": "2026-07-18 12:20",
-          "summary": "《矿石工厂小队》是一款合作型采矿和工厂建设游戏，核心玩法为程序生成的采矿系统！单人游玩或与朋友一起玩，购买地产 […]"
+          "title": "[PC]致经济下行的我们",
+          "link": "https://www.cheesegame.org/57861.html",
+          "published": "2026-07-18 12:03",
+          "summary": "集回合、养成、随机事件、Galgame、藏品、人生模拟、危机系统等玩法的一款2D视觉恋爱小说游戏。内含78个剧 […]"
         },
         {
-          "title": "[PC]鸟语森林/Feather Land",
-          "link": "https://www.cheesegame.org/57840.html",
-          "published": "2026-07-18 12:16",
-          "summary": "《鸟语森林》是一款温馨治愈的放置类专注伴侣。你的每一次学习与工作，都能让这个宁静的鸟类世界不断成长。在这里，你 […]"
+          "title": "[PC]挂机足球/Goal Idle",
+          "link": "https://www.cheesegame.org/57863.html",
+          "published": "2026-07-18 12:02",
+          "summary": "点击球进行射门并赚取现金。解锁更好的球和升级。场上球越多，进球就越多！投资技能提升收益，看着钱包塞满金币。雇佣 […]"
         }
       ]
     },
@@ -575,22 +575,22 @@
       "labels": [],
       "posts": [
         {
+          "title": "GitHub 多账户 SSH 配置与权限问题解决，Git多账号管理",
+          "link": "https://www.hexvork.com/posts/git-accounts",
+          "published": "2026-07-19 12:00",
+          "summary": "本文解决了一台电脑同时使用两个 GitHub 账户的 SSH 配置问题。通过为每个账户生成独立密钥（id_rsa 和 id_rsa_2），并利用 SSH config 文件设置 Host 别名，实现不同仓库自动匹配对应密钥。文章还重点处理了 Windows 多账户遗留的 .ssh 文件权限问题——历史账户虽已删除，但权限残留会导致 SSH 拒绝连接，需用 icacls 命令清理多余用户权限。全程提"
+        },
+        {
+          "title": "通过Cloudflare Tunnel和Warp拯救纯IPV6服务器，轻松部署访问Artalk和1Panel并通过域名用IPV4网络访问",
+          "link": "https://www.hexvork.com/posts/ipv6-vps",
+          "published": "2026-07-19",
+          "summary": "这篇教程记录了作者在IPv6-only服务器上部署1Panel和Artalk的全过程，核心思路是通过Cloudflare Warp获取IPv4出口解决下载问题，再借助Cloudflare Tunnel实现IPv4访问，避免暴露端口提升安全性。文中详细演示了Warp配置、1Panel安装、Artalk二进制部署及Nginx-light反代，并针对GPG密钥、systemd服务等常见报错给出了实测解决"
+        },
+        {
           "title": "部署Waline，给你的Astro博客加上Waline评论，实现说说等高级功能",
           "link": "https://www.hexvork.com/posts/astro-waline",
           "published": "2026-06-20",
           "summary": "作者因持续调整博客样式、通过“鱼鱼中转”结合 GPT 深度修改 UI、引入图片永久访问技术，以及研究并开发 Waline 说说功能，导致近一个月未更新。为了“水篇文章”，作者详细分享了 Astro 接入 Waline 并实现说说功能的完整教程。内容涵盖：利用 Vercel 与 TiDB Cloud 免费计划分别快速部署 Waline 前后端、初始化数据库、进行前后端环境变量连接并注册管理员；在 A"
-        },
-        {
-          "title": "MicYou使用体验及配置方法——把手机变成电脑麦克风",
-          "link": "https://www.hexvork.com/posts/micyou",
-          "published": "2026-05-31",
-          "summary": "MicYou 把手机变成电脑无线麦克风代替电脑收音极差的麦克风，支持 Wi-Fi 和 USB 连接，内置降噪和自动增益，免费开源，手把手教你从下载到实战的全流程配置。"
-        },
-        {
-          "title": "从Hexo到Astro，我的博客建站路程",
-          "link": "https://www.hexvork.com/posts/hexo-to-astro",
-          "published": "2026-05-24 17:00",
-          "summary": "从 Hexo-Butterfly 的雨砚Blog，到 AI Agent + Astro 的 Hexvork。聊聊两套建站方案的差异，以及这段折腾路程让我学到的东西。"
         }
       ]
     },
