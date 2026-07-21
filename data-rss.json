@@ -622,33 +622,6 @@
       ]
     },
     {
-      "title": "Dahi Blog",
-      "url": "https://dahi.icu/",
-      "icon": "https://list.yppp.net/d/oss/image/i/2025/07/14/8656772d864ec38434a0c2776804b3b3.png",
-      "description": "時光流轉，願你有一天能與重要的人重逢",
-      "labels": [],
-      "posts": [
-        {
-          "title": "分析一个两年前发现的酷安社区漏洞，无视图片外链域限制发帖",
-          "link": "https://dahi.icu/posts/coolapk-any-pic/",
-          "published": "2025-06-04 09:25",
-          "summary": "发帖原因 # 起因是我昨天在L站发帖发现引用我的图床出错了（我全站有反机器人规则）。然后突然想起来了这个酷安漏洞，不知道现在还有没有。 由于本人之前一直活跃于水深火热，对官方乌烟瘴气的酷安社区，而酷安因为我使用插件以及利用（没干坏事）这个漏洞把我所有账号与设备全部封禁。 但是他们修复bug好像修错了（我当时用这个漏洞给酷安帖子直接引用了酷安的OSS对象存储，然后我发现没有防盗链，闲着没事直接当博客"
-        },
-        {
-          "title": "2025年中國內地 Cloudflare DNS over HTTPS (DoH) 使用教程",
-          "link": "https://dahi.icu/posts/cloudflare-dns-any/",
-          "published": "2025-06-01 03:25",
-          "summary": "Cloudflare DNS over HTTPS （DoH） 使用教程 # Cloudflare 提供多种 DNS over HTTPS （DoH） 服务端点，包括标准 DNS、家庭保护 DNS 和安全 DNS 服务。 而其附带的诸如ECH等各种功能，似是禁忌乐章。 以下是详细使用教程。 来自中国内地的报告显示，Cloudflare的部分DNS网域已被封锁。但是封的居然不是全局，离谱了，用子域名"
-        },
-        {
-          "title": "Bing 不索引站点全站！ 搜索结果被清空？ 不得不试试此申诉方法",
-          "link": "https://dahi.icu/posts/bing-no-indexing/",
-          "published": "2025-06-01 01:25",
-          "summary": "Bing也是神人了 # 前言 # 有一天，我的站点突然被清空全部搜索结果。 Bing作为我站唯一的访客来源，突然就死了。 出现这种情况的原因是，我建立了某个网站的映像，而Bing不按robots.txt索引网站，而导致违规内容（其实我反代的网站就是违规网站，Bing不收的那种）被侦测到。 Bing觉得自己吃到💩了，所以就会封禁域名。 新的免费域名dpdnsorg那个就是因一些网友的抽象行为被Bi"
-        }
-      ]
-    },
-    {
       "title": "Cheymin的小窝",
       "url": "https://blog.346247.xyz",
       "icon": "https://list.yppp.net/d/cos/image/5953c84fdc1f2bdf3ddc63b7426c400578f1474bb6adb5c9b35bcf6760b2ab99.png",
@@ -683,6 +656,12 @@
       "labels": [],
       "posts": [
         {
+          "title": "植物病害识别系统DLC篇",
+          "link": "https://blog.zuodev.top/article/9",
+          "published": "2026-07-21 16:22",
+          "summary": "植物病害识别系统扩展篇：从标准数据集到真实场景泛化能力增强 前文记录：[小样本植物病害识别系统项目记录](https://blog.zuodev.top/article/7) 摘要 上一篇项目记录主要围绕 PlantVillage 标准数据集 展开，完成了 MobileViT-S baseline、知识蒸馏学生模型、统一评估、Grad"
+        },
+        {
           "title": "CNN?-卷积神经网络是怎么工作的？",
           "link": "https://blog.zuodev.top/article/8",
           "published": "2026-07-10 03:04",
@@ -693,12 +672,6 @@
           "link": "https://blog.zuodev.top/article/7",
           "published": "2026-07-09 09:43",
           "summary": "小样本植物病害识别系统 —— 基于 MobileViT-S + 知识蒸馏 + Gradio 的完整实验与演示闭环 摘要 本项目围绕 小样本植物病害识别 展开，基于 PlantVillage 数据集构建了一个从数据预处理、baseline 训练、教师知识蒸馏、统一评估、Grad-CAM 可解释性分析到 Gradio 在线演示的完整闭环系统。项目的"
-        },
-        {
-          "title": "PyTorch 安装和环境部署",
-          "link": "https://blog.zuodev.top/article/6",
-          "published": "2026-07-07 09:33",
-          "summary": "PyTorch 安装和环境部署（Windows 平台 · 2026 版） 适用平台 ：Windows 10/11 覆盖方式 ：pip（推荐） / conda / 手动 CUDA+cuDNN 更新时间 ：2026-07-07 --- 学习目标 通过本文，你将掌握以下核心能力： - 理解 CPU 版与 G"
         }
       ]
     },
