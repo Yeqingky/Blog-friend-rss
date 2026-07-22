@@ -224,6 +224,12 @@
       "labels": [],
       "posts": [
         {
+          "title": "纯前端 SPA 的 SEO 自救指南：我是如何让博客和论坛被百度谷歌乖乖收录的",
+          "link": "https://2x.nz/posts/svaf-next-seo/",
+          "published": "2026-07-22",
+          "summary": "众所周知，现在流行前后端分离，而 SPA 更是许多个人网站的首选。但 SPA 天生的 SEO 劣势（爬虫不执行 JS）让很多人头疼不已。这篇文章就来复盘一下，"
+        },
+        {
           "title": "整个博客非得塞到网站源码吗？不！纯前端的前后端分离全部搞定！",
           "link": "https://2x.nz/posts/micro-blog-service/",
           "published": "2026-07-17",
@@ -234,12 +240,6 @@
           "link": "https://2x.nz/posts/first/",
           "published": "2026-07-04",
           "summary": "PagesCMS可以代理您操作Github来撰写文章或存储任何内容，然后您可以接入各类网站生成器来上线您的博客/电商/社交网站"
-        },
-        {
-          "title": "神了！PagesCMS拯救静态博客！",
-          "link": "https://2x.nz/posts/pagescms/",
-          "published": "2026-07-04",
-          "summary": "PagesCMS可以代理读写您的Github仓库，帮你创建，编辑文章，最后通过你喜欢的CDN发布他们！"
         }
       ]
     },
