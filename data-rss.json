@@ -521,10 +521,10 @@
       "labels": [],
       "posts": [
         {
-          "title": "XEMC网站前端源码，2MB文本量的高亮很卡，慎入",
+          "title": "XEMC网站前端等各种源码，2MB文本量的高亮很卡，慎入",
           "link": "https://www.b23.kim/details/13cdc5913abb.html",
           "published": "2026-07-22 18:32",
-          "summary": "12<span class="
+          "summary": "我们不生产代码，我们只做勾石代码的搬运工 </"
         },
         {
           "title": "关于某商业服务器把国徽当图标这回事，细数它的前逝今苼",
@@ -656,6 +656,12 @@
       "labels": [],
       "posts": [
         {
+          "title": "AI 智能舆情分析系统",
+          "link": "https://blog.zuodev.top/article/10",
+          "published": "2026-07-23 11:56",
+          "summary": "AI 智能舆情分析系统 —— 从模型训练到全栈部署的完整实践 TF-IDF + MLP 深度学习 · DeepSeek 大语言模型 · Vue 可视化仪表盘 · Docker 容器化部署 --- 项目简介 在信息爆炸的时代，如何从海量文本中快速提取有价值的信息？本项目构建了一套 端到端的智能舆情分析系统 ，支持文本分类、情感分析"
+        },
+        {
           "title": "植物病害识别系统DLC篇",
           "link": "https://blog.zuodev.top/article/9",
           "published": "2026-07-21 16:22",
@@ -666,12 +672,6 @@
           "link": "https://blog.zuodev.top/article/8",
           "published": "2026-07-10 03:04",
           "summary": "卷积神经网络是怎么工作的？从 LeNet 到 GTN，读懂 CNN 的核心逻辑 摘要 如果说深度学习改变了计算机视觉，那么 卷积神经网络（Convolutional Neural Network，CNN） 就是这场变化最早、也最关键的推动者之一。 今天我们提到图像分类、目标检测、OCR、医学影像分析，几乎都绕不开 CNN。它之所以重要，不"
-        },
-        {
-          "title": "小样本植物病害识别系统",
-          "link": "https://blog.zuodev.top/article/7",
-          "published": "2026-07-09 09:43",
-          "summary": "小样本植物病害识别系统 —— 基于 MobileViT-S + 知识蒸馏 + Gradio 的完整实验与演示闭环 摘要 本项目围绕 小样本植物病害识别 展开，基于 PlantVillage 数据集构建了一个从数据预处理、baseline 训练、教师知识蒸馏、统一评估、Grad-CAM 可解释性分析到 Gradio 在线演示的完整闭环系统。项目的"
         }
       ]
     },
@@ -699,6 +699,33 @@
           "link": "https://www.wxuyu.top/2026/04/essaynuxtpage",
           "published": "2026-04-11 06:00",
           "summary": "该文章主要写了对于低价机器的试水，并提醒是超开类型的机器。在测试的过程中发现机器性能较高，且展示出机器的具体价格，并单独列出只有精简版未采用完整版测试。"
+        }
+      ]
+    },
+    {
+      "title": "Aimerting",
+      "url": "https://blog.xuioo.com/",
+      "icon": "https://list.yppp.net/d/cos/image/69ef9fd36f8308a632e7ed01192daf3d1c44a2fbe404cb7cd9ed971707554986.png",
+      "description": "一个人",
+      "labels": [],
+      "posts": [
+        {
+          "title": "液态玻璃：CSS和SVG的折射",
+          "link": "https://blog.xuioo.com/posts/liquid-glass-css-svg-723/",
+          "published": "2026-07-23",
+          "summary": "今天去外网的时候，无意中看到一篇比较有趣的博客，关于液态玻璃里面的，里面的讲解属实是震惊我了"
+        },
+        {
+          "title": "Twikoo 评论区重大事故复盘",
+          "link": "https://blog.xuioo.com/posts/apology-for-twikoo-722/",
+          "published": "2026-07-22",
+          "summary": "前端乐观发送 + 本地持久化队列导致的 自动重复提交 & 邮件轰炸 事故"
+        },
+        {
+          "title": "如何与你的 AI 沟通（无限续杯）",
+          "link": "https://blog.xuioo.com/posts/use-agent-721/",
+          "published": "2026-07-21",
+          "summary": "无限续杯：高效的沟通可以有效帮你提升网站建设速率，节省 Token 成本"
         }
       ]
     }
