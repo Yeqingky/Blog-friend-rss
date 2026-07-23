@@ -602,6 +602,12 @@
       "labels": [],
       "posts": [
         {
+          "title": "VMISS LA TRI Basic 1C1G Benchmark",
+          "link": "https://miuo.me/posts/vmiss-la-tri-basic",
+          "published": "2026-07-22 16:00",
+          "summary": "VMISS 洛杉矶三网优化 Basic 1 核 1G 性能基准测试：硬件、IP、网络与回程路由一览。"
+        },
+        {
           "title": "Minecraft 最速极简开服指南",
           "link": "https://miuo.me/posts/minecraft-fast-server-setup",
           "published": "2026-07-10 16:00",
@@ -612,12 +618,6 @@
           "link": "https://miuo.me/posts/windows-software-settings",
           "published": "2026-07-04 10:05",
           "summary": "记录 Windows 日常自用软件、外观设置和常用网站清单，方便重装系统或整理环境时参考。"
-        },
-        {
-          "title": "Windows 终端美化",
-          "link": "https://miuo.me/posts/windows-terminal-beautify",
-          "published": "2026-07-03 16:00",
-          "summary": "基于 YouTube 教程改进，使用 scoop 安装 JetBrainsMono Nerd Font、Fastfetch、chafa 等工具美化 Windows 终端。"
         }
       ]
     },
