@@ -656,6 +656,12 @@
       "labels": [],
       "posts": [
         {
+          "title": "Blog后端代码重构",
+          "link": "https://blog.zuodev.top/article/11",
+          "published": "2026-07-24 05:05",
+          "summary": "Blog后端代码重构 —— 一次从功能补齐到架构重构的完整复盘 摘要 这几天都在改代码。 从功能补齐、到整包重构、再到生产上线，一次性完整地趟了一遍。涉及的改动跨越 100 个文件、+2700/-2600 行 ，覆盖好友评论模块解耦、RSS Feed 接入、GitHub + Gitee 双平台 OAuth 登录、文章点赞并发安全修复、Con"
+        },
+        {
           "title": "AI 智能舆情分析系统",
           "link": "https://blog.zuodev.top/article/10",
           "published": "2026-07-23 11:56",
@@ -666,12 +672,6 @@
           "link": "https://blog.zuodev.top/article/9",
           "published": "2026-07-21 16:22",
           "summary": "植物病害识别系统扩展篇：从标准数据集到真实场景泛化能力增强 前文记录：[小样本植物病害识别系统项目记录](https://blog.zuodev.top/article/7) 摘要 上一篇项目记录主要围绕 PlantVillage 标准数据集 展开，完成了 MobileViT-S baseline、知识蒸馏学生模型、统一评估、Grad"
-        },
-        {
-          "title": "CNN?-卷积神经网络是怎么工作的？",
-          "link": "https://blog.zuodev.top/article/8",
-          "published": "2026-07-10 03:04",
-          "summary": "卷积神经网络是怎么工作的？从 LeNet 到 GTN，读懂 CNN 的核心逻辑 摘要 如果说深度学习改变了计算机视觉，那么 卷积神经网络（Convolutional Neural Network，CNN） 就是这场变化最早、也最关键的推动者之一。 今天我们提到图像分类、目标检测、OCR、医学影像分析，几乎都绕不开 CNN。它之所以重要，不"
         }
       ]
     },
