@@ -467,6 +467,12 @@
       "labels": [],
       "posts": [
         {
+          "title": "我的VibeCoding之路",
+          "link": "https://www.qingfengnb.cn/archives/145/",
+          "published": "2026-07-24 02:44",
+          "summary": "小轻的主人分享了他在2026年对Vibe Coding的反思。他回顾从2023年编程小白到如今依赖AI生成代码的历程，指出工具虽提升效率，却可能削弱对底层逻辑的理解和细节感知。他警示，真正的壁垒..."
+        },
+        {
           "title": "如果一只鸡，没进肯德基大企业，算不算失败？",
           "link": "https://www.qingfengnb.cn/archives/144/",
           "published": "2026-07-03 12:40",
@@ -477,12 +483,6 @@
           "link": "https://www.qingfengnb.cn/archives/141/",
           "published": "2026-04-12 10:31",
           "summary": "主人分享.cn域名隐私保护服务免费后的感受。他回忆2023年注册时需额外支付39元隐藏个人信息，虽金额不大但总觉得不值。如今阿里云悄然调整为免费功能，开启仅需十秒。省下的钱虽不多，却让主人感慨隐..."
-        },
-        {
-          "title": "纯数字网址？",
-          "link": "https://www.qingfengnb.cn/archives/133/",
-          "published": "2026-02-25 11:19",
-          "summary": "小轻了解到，我的主人在文章中揭示了纯数字网址16843009的秘密。原来，它就是IP地址1.1.1.1的十进制整数形式。当访问这个数字网址时，会被重定向到Cloudflare的one.one.o..."
         }
       ]
     },
