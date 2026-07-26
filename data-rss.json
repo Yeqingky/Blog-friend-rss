@@ -149,16 +149,16 @@
           "summary": "本次约的是 7 月 24 日上午 10:00-11:00 的场,需要带好身份证在 8:00 之前赶到驾校集合,驾校会统一送过去,需要在纸上写上自己的姓名,手机号.方便点人和联系. 接着就是漫长的路途了,距离最近的考场也至少要 14 km 的直线距离,开车都要 40 min,还是基本上全程走快车道的情况. 然后就是等,对,等!如果不是特别紧急的情况而且公..."
         },
         {
-          "title": "第一章 陷阱",
-          "link": "https://docs.yyyyt.top/books/unusual-world/C_001.html",
-          "published": "2026-07-18 15:31",
-          "summary": "紫是一位高中生. 有一天,闲的没事了去郊区闲逛,但是似乎脚底下不知道为啥支撑不稳陷进去了,掉进了一个陷阱.然后似乎被什么东西拽下去了一样,然后又忽然有一股踩空的感觉,从天上掉了下来. 紫有点不知所措,疯狂挥舞着手臂,还有股窒息感. 忽然感觉像是有啥东西在地下拖着一样,下落速度明显慢了许多. 呼呼呼 紫有点闷得慌,喘了几口气,好在背..."
-        },
-        {
           "title": "远离草台班子",
           "link": "https://docs.yyyyt.top/articles/daily/2026/07-180.far-away-monkey-group.html",
           "published": "2026-07-18",
           "summary": "知难而进,知难而退. 劝一次,莫多劝. 尊重他人命运,让花成花,让草成草. 明知故犯莫多劝,敷衍了事结话题. 形而上学,不行退学. 草台班子莫靠近,莫名禁言别生气. 历史言论扒一扒,笑话乐子常常有. 永久保存要牢记,证明容易解释难. 内容一致是原则,不要学习小红书. 远离草台班子,人人有责! The End"
+        },
+        {
+          "title": "Nginx 默认配置调优",
+          "link": "https://docs.yyyyt.top/articles/daily/2026/07-110.nginx-optimization.html",
+          "published": "2026-07-11",
+          "summary": "前言 Alice 的免费机迁移到 Yuusei 那边了,于是机器的数据也无了,刚好顺带做一篇 Nginx 调优教程. 服务商用的什么黑科技,Debian 13 纯系统只占用 76 M 内存,822 M 硬盘,还是 KVM 虚拟化的.bbb 的黑科技真 NB. 调优部分 1. 404 页面等不显示 Nginx 版本号 nginx.conf 2. 优化 S..."
         }
       ]
     },
@@ -656,6 +656,12 @@
       "labels": [],
       "posts": [
         {
+          "title": "智慧农业病害监测系统",
+          "link": "https://blog.zuodev.top/article/12",
+          "published": "2026-07-26 07:30",
+          "summary": "智慧农业病害系统融合升级 —— 从单一模型演示到前后端一体化农业决策平台 MobileViT-S 蒸馏学生模型 · Spring Boot API 编排 · Vue 可视化平台 · 农业文本研判 · 病害预警与 AI 解读 --- 摘要 这次项目升级并不是简单把“植物病害识别系统”和“AI 舆情分析系统”两篇旧博客拼在一起，而是完成"
+        },
+        {
           "title": "Blog后端代码重构",
           "link": "https://blog.zuodev.top/article/11",
           "published": "2026-07-24 05:05",
@@ -666,12 +672,6 @@
           "link": "https://blog.zuodev.top/article/10",
           "published": "2026-07-23 11:56",
           "summary": "AI 智能舆情分析系统 —— 从模型训练到全栈部署的完整实践 TF-IDF + MLP 深度学习 · DeepSeek 大语言模型 · Vue 可视化仪表盘 · Docker 容器化部署 --- 项目简介 在信息爆炸的时代，如何从海量文本中快速提取有价值的信息？本项目构建了一套 端到端的智能舆情分析系统 ，支持文本分类、情感分析"
-        },
-        {
-          "title": "植物病害识别系统DLC篇",
-          "link": "https://blog.zuodev.top/article/9",
-          "published": "2026-07-21 16:22",
-          "summary": "植物病害识别系统扩展篇：从标准数据集到真实场景泛化能力增强 前文记录：[小样本植物病害识别系统项目记录](https://blog.zuodev.top/article/7) 摘要 上一篇项目记录主要围绕 PlantVillage 标准数据集 展开，完成了 MobileViT-S baseline、知识蒸馏学生模型、统一评估、Grad"
         }
       ]
     },
