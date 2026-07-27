@@ -224,6 +224,12 @@
       "labels": [],
       "posts": [
         {
+          "title": "从 SPA 到全站 SSR：2x.nz 的服务端渲染实践录",
+          "link": "https://2x.nz/posts/fullstack-ssr",
+          "published": "2026-07-27",
+          "summary": "上篇 SEO 的文章里我提到已经把网站从 Next.js 迁到了 Vite+React Router 7 的纯 SPA，并靠边缘 Worker+路由级元数据+预渲染四管齐下搞定了 SEO。但 SPA 终究有天花板——比如禁用 JS 后整页空白这种硬伤， 不是边缘补丁能解决的。这篇文章记录 2x.nz 从 SPA 再次迁移到 React Router 7 Framework Mode 全站 SSR "
+        },
+        {
           "title": "纯前端 SPA 的 SEO 自救指南：我是如何让博客和论坛被百度谷歌乖乖收录的",
           "link": "https://2x.nz/posts/svaf-next-seo",
           "published": "2026-07-22",
@@ -234,12 +240,6 @@
           "link": "https://2x.nz/posts/micro-blog-service",
           "published": "2026-07-17",
           "summary": "很久很久以前，我的网站一直都是把博文和图片资源当做源码，封装在整个源码仓库里的。这会导致仅仅更新一行代码，CI/CD 都需要重新拉取整个仓库，包括高达 5 个 G 的博客图片。 那么，我们为什么不能跟它分离开来？来，这期教你掌控分离的权能！"
-        },
-        {
-          "title": "第一篇 PagesCMS 构建的文章",
-          "link": "https://2x.nz/posts/first",
-          "published": "2026-07-04",
-          "summary": "PagesCMS可以代理您操作Github来撰写文章或存储任何内容，然后您可以接入各类网站生成器来上线您的博客/电商/社交网站"
         }
       ]
     },
