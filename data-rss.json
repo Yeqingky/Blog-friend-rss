@@ -8,22 +8,22 @@
       "labels": [],
       "posts": [
         {
-          "title": "[PC]光环：战役进化/Halo: Campaign Evolved",
-          "link": "https://www.cheesegame.org/57966.html",
-          "published": "2026-07-24 18:43",
-          "summary": "预购 Halo: Campaign Evolved 即可解锁铸造厂军械库礼包，礼包内含士官长标志性马克 V 型 […]"
+          "title": "[PC]绝色侦探:爱丽丝/Peerless Beauty Detective: Alice",
+          "link": "https://www.cheesegame.org/57999.html",
+          "published": "2026-07-27 19:17",
+          "summary": "艾青公寓发生了一起命案,1802号公寓女主人离奇死亡,没有任何挣扎,没有打斗痕迹.为何会在深夜死亡,为何男主人 […]"
         },
         {
-          "title": "[PC]雪落情书时/A Love Letter in Snowfall",
-          "link": "https://www.cheesegame.org/57967.html",
-          "published": "2026-07-24 18:43",
-          "summary": "《雪落情书时》是一部全真人实拍、多结局互动爱情影游。在江南小城常山的温柔山水间，你将化身民宿青年，与到访此地的 […]"
+          "title": "[PC]模型店模拟器/Model Kit Shop Simulator",
+          "link": "https://www.cheesegame.org/58000.html",
+          "published": "2026-07-27 19:17",
+          "summary": "在这款第一人称商店经营模拟游戏中，打造并经营你自己的模型店。订购库存、补满货架、设定价格，通过 Hobby B […]"
         },
         {
-          "title": "[PC]铁门之下/Beneath the Iron Gate",
-          "link": "https://www.cheesegame.org/57968.html",
-          "published": "2026-07-24 18:43",
-          "summary": "一款写实末日互动叙事游戏。你将改造黑匣安全屋，管理补给、信任与证据，在铁门内外的幸存者、医生、广播与方舟会之间 […]"
+          "title": "[PC]金子一马的月读/KAZUMA KANEKO&#039;S TSUKUYOMI",
+          "link": "https://www.cheesegame.org/58001.html",
+          "published": "2026-07-27 19:17",
+          "summary": "曾将无数独创作品推向世人的游戏创作者·金子一马最新作。古老神话在现代巴别塔中胎动，一款摩登且利落的牌组构建爬塔 […]"
         }
       ]
     },
@@ -699,6 +699,33 @@
           "link": "https://www.wxuyu.top/2026/04/essaynuxtpage",
           "published": "2026-04-11 06:00",
           "summary": "该文章主要写了对于低价机器的试水，并提醒是超开类型的机器。在测试的过程中发现机器性能较高，且展示出机器的具体价格，并单独列出只有精简版未采用完整版测试。"
+        }
+      ]
+    },
+    {
+      "title": "Aimerting",
+      "url": "https://blog.xuioo.com/",
+      "icon": "https://list.yppp.net/d/cos/image/69ef9fd36f8308a632e7ed01192daf3d1c44a2fbe404cb7cd9ed971707554986.png",
+      "description": "一个人",
+      "labels": [],
+      "posts": [
+        {
+          "title": "液态玻璃：CSS和SVG的折射",
+          "link": "https://blog.xuioo.com/posts/liquid-glass-css-svg-723/",
+          "published": "2026-07-23",
+          "summary": "今天去外网的时候，无意中看到一篇比较有趣的博客，关于液态玻璃里面的，里面的讲解属实是震惊我了"
+        },
+        {
+          "title": "Twikoo 评论区重大事故复盘",
+          "link": "https://blog.xuioo.com/posts/apology-for-twikoo-722/",
+          "published": "2026-07-22",
+          "summary": "前端乐观发送 + 本地持久化队列导致的 自动重复提交 & 邮件轰炸 事故"
+        },
+        {
+          "title": "如何与你的 AI 沟通（无限续杯）",
+          "link": "https://blog.xuioo.com/posts/use-agent-721/",
+          "published": "2026-07-21",
+          "summary": "无限续杯：高效的沟通可以有效帮你提升网站建设速率，节省 Token 成本"
         }
       ]
     },
