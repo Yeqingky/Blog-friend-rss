@@ -703,33 +703,6 @@
       ]
     },
     {
-      "title": "Aimerting",
-      "url": "https://blog.xuioo.com/",
-      "icon": "https://list.yppp.net/d/cos/image/69ef9fd36f8308a632e7ed01192daf3d1c44a2fbe404cb7cd9ed971707554986.png",
-      "description": "一个人",
-      "labels": [],
-      "posts": [
-        {
-          "title": "液态玻璃：CSS和SVG的折射",
-          "link": "https://blog.xuioo.com/posts/liquid-glass-css-svg-723/",
-          "published": "2026-07-23",
-          "summary": "今天去外网的时候，无意中看到一篇比较有趣的博客，关于液态玻璃里面的，里面的讲解属实是震惊我了"
-        },
-        {
-          "title": "Twikoo 评论区重大事故复盘",
-          "link": "https://blog.xuioo.com/posts/apology-for-twikoo-722/",
-          "published": "2026-07-22",
-          "summary": "前端乐观发送 + 本地持久化队列导致的 自动重复提交 & 邮件轰炸 事故"
-        },
-        {
-          "title": "如何与你的 AI 沟通（无限续杯）",
-          "link": "https://blog.xuioo.com/posts/use-agent-721/",
-          "published": "2026-07-21",
-          "summary": "无限续杯：高效的沟通可以有效帮你提升网站建设速率，节省 Token 成本"
-        }
-      ]
-    },
-    {
       "title": "朽丘秋雨",
       "url": "https://koxiuqiu.cn/",
       "icon": "https://list.yppp.net/d/oss/image/i/2025/05/16/875c1da2384560faafeedd37152d5c8c.webp",
