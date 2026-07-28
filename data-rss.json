@@ -224,6 +224,12 @@
       "labels": [],
       "posts": [
         {
+          "title": "af_ 系统运维灾难复盘：当 Claude Code 在多机多仓环境下改了三天代码",
+          "link": "https://2x.nz/posts/af-claude-code-ops-pitfalls",
+          "published": "2026-07-28",
+          "summary": "别让 AI 在没版本控制的机器上改代码，你会哭着补回来的"
+        },
+        {
           "title": "从 SPA 到全站 SSR：2x.nz 的服务端渲染实践录",
           "link": "https://2x.nz/posts/fullstack-ssr",
           "published": "2026-07-27",
@@ -234,12 +240,6 @@
           "link": "https://2x.nz/posts/svaf-next-seo",
           "published": "2026-07-22",
           "summary": "众所周知，现在流行前后端分离，而 SPA 更是许多个人网站的首选。但 SPA 天生的 SEO 劣势（爬虫不执行 JS）让很多人头疼不已。这篇文章就来复盘一下， 我（二叉树树）的网站是如何通过边缘 Worker + 路由级元数据 + 结构化数据 + 预渲染四管齐下，让搜索引擎和社交爬虫在 SPA 里也能畅游的。"
-        },
-        {
-          "title": "整个博客非得塞到网站源码吗？不！纯前端的前后端分离全部搞定！",
-          "link": "https://2x.nz/posts/micro-blog-service",
-          "published": "2026-07-17",
-          "summary": "很久很久以前，我的网站一直都是把博文和图片资源当做源码，封装在整个源码仓库里的。这会导致仅仅更新一行代码，CI/CD 都需要重新拉取整个仓库，包括高达 5 个 G 的博客图片。 那么，我们为什么不能跟它分离开来？来，这期教你掌控分离的权能！"
         }
       ]
     },
@@ -726,33 +726,6 @@
           "link": "https://blog.xuioo.com/posts/apology-for-twikoo-722/",
           "published": "2026-07-22",
           "summary": "前端乐观发送 + 本地持久化队列导致的 自动重复提交 & 邮件轰炸 事故"
-        }
-      ]
-    },
-    {
-      "title": "朽丘秋雨",
-      "url": "https://koxiuqiu.cn/",
-      "icon": "https://list.yppp.net/d/oss/image/i/2025/05/16/875c1da2384560faafeedd37152d5c8c.webp",
-      "description": "一定会和喜欢的人在夏日夜晚牵手慢步",
-      "labels": [],
-      "posts": [
-        {
-          "title": "如何启用域名DNSSEC的设置以及吃瓜某蒂云服务商跑路这件事",
-          "link": "https://koxiuqiu.cn/posts/34p2605101/",
-          "published": "2026-05-10 13:50",
-          "summary": "别来无恙；有一段时间不在互联网冒头了，特意来水一下表示我活着。 最近发生的事情有些多，最近的一件事情相信各位IT都有所了解，前段时间在忙也就没怎么特别区了解。关于某蒂云服务商破产清算这件事，也就是跑路。（详细吃瓜可以翻到下边看。 不过主"
-        },
-        {
-          "title": "快速登记自己的作品版权合法保护自己的绘画等艺术作品",
-          "link": "https://koxiuqiu.cn/posts/33p2604191/",
-          "published": "2026-04-19 15:05",
-          "summary": "别来无恙；来听一首音乐吗？ <iframe frameborder=\"no\" border=\"0\" marginwidth=\"0\" marginheight=\"0\" width=330 height=86 src=\"//music.163.com/outchain/"
-        },
-        {
-          "title": "实现Artalk中间页安全跳转和表情包小图BUG预览",
-          "link": "https://koxiuqiu.cn/posts/32p2604141/",
-          "published": "2026-04-14 13:35",
-          "summary": "artalk.styl"
         }
       ]
     }
