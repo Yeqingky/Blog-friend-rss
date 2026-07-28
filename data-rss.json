@@ -710,6 +710,12 @@
       "labels": [],
       "posts": [
         {
+          "title": "还有一年多就可以备案了",
+          "link": "https://blog.xuioo.com/posts/soon-to-be-adult-728/",
+          "published": "2026-07-28",
+          "summary": "海外的节点实在是太慢了，完全满足不了"
+        },
+        {
           "title": "液态玻璃：CSS和SVG的折射",
           "link": "https://blog.xuioo.com/posts/liquid-glass-css-svg-723/",
           "published": "2026-07-23",
@@ -720,12 +726,6 @@
           "link": "https://blog.xuioo.com/posts/apology-for-twikoo-722/",
           "published": "2026-07-22",
           "summary": "前端乐观发送 + 本地持久化队列导致的 自动重复提交 & 邮件轰炸 事故"
-        },
-        {
-          "title": "如何与你的 AI 沟通（无限续杯）",
-          "link": "https://blog.xuioo.com/posts/use-agent-721/",
-          "published": "2026-07-21",
-          "summary": "无限续杯：高效的沟通可以有效帮你提升网站建设速率，节省 Token 成本"
         }
       ]
     },
