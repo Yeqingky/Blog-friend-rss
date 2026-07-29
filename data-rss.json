@@ -224,9 +224,9 @@
       "labels": [],
       "posts": [
         {
-          "title": "af_ 系统运维灾难复盘：当 Claude Code 在多机多仓环境下改了三天代码",
+          "title": "af_ 系统运维灾难复盘：我把 7 个仓库交给 AI，丢了两次线上功能",
           "link": "https://2x.nz/posts/af-claude-code-ops-pitfalls",
-          "published": "2026-07-28",
+          "published": "2026-07-29",
           "summary": "别让 AI 在没版本控制的机器上改代码，你会哭着补回来的"
         },
         {
