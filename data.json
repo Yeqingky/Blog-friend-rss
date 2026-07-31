@@ -39,6 +39,14 @@
       "description": "一个开放共享的全版本Minecraft下载站.",
       "labels": [],
       "posts": []
+    },
+    {
+      "title": "Hexvork Blog",
+      "url": "https://www.hexvork.com",
+      "icon": "https://list.yppp.net/d/image/2026-05-06-e8bc9b10b21b4600139fa84b0ee84c9b.png",
+      "description": "分享网络优化、开发实战和工具评测，用人话讲技术。",
+      "labels": [],
+      "posts": []
     }
   ]
 }
