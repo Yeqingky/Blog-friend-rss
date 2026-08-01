@@ -8,22 +8,22 @@
       "labels": [],
       "posts": [
         {
-          "title": "[PC]日光工坊/Suncraft",
-          "link": "https://www.cheesegame.org/58034.html",
-          "published": "2026-07-30 19:13",
-          "summary": "阳光明媚的新一天在这个温馨的像素风冒险中开始了。收集资源，制作物品，并升级工具来扩展土地。你能否重建宏伟的灯塔 […]"
+          "title": "[PC]纵横秘湾/Corsair Cove",
+          "link": "https://www.cheesegame.org/58066.html",
+          "published": "2026-08-01 18:31",
+          "summary": "建立一座庞大的海盗避风港，组建舰队探索广阔海域，挑战王权让海盗时代得以延续！从麦酒到燧发手枪，从无名喽啰到侠盗 […]"
         },
         {
-          "title": "[PC]长官，兽人大军冲上来了/Sir, We Have an Orc Problem",
-          "link": "https://www.cheesegame.org/58035.html",
-          "published": "2026-07-30 19:13",
-          "summary": "《长官，兽人大军冲上来了》是一款渐进式风格的塔防游戏。在这款游戏中，你将会面对潮水般涌来的庞大兽人军团。用铺天 […]"
+          "title": "[PC]卡牌家园/Card Homestead",
+          "link": "https://www.cheesegame.org/58067.html",
+          "published": "2026-08-01 18:31",
+          "summary": "《Card Homestead》是一款\"卡牌摆放位置决定一切\"的肉鸽卡牌构建游戏。每天送来 […]"
         },
         {
-          "title": "[PC]Lian：久远岛童谣连环杀人备忘录/The Kuon Island Nursery Rhyme Murders: Case Notes",
-          "link": "https://www.cheesegame.org/58036.html",
-          "published": "2026-07-30 19:13",
-          "summary": "暴风雨孤岛，童谣预告，七名天才，连环杀人，现代密室，传统密室，占星术，血肉拼图，以及幸存者，和一句为了让你看到 […]"
+          "title": "[PC]锈迹水境/WATERPUNK",
+          "link": "https://www.cheesegame.org/58068.html",
+          "published": "2026-08-01 18:31",
+          "summary": "一款以末日水世界为背景的 Roguelite 动作游戏。制定你的策略，选择哪些能力在白天大放异彩，哪些能力在夜 […]"
         }
       ]
     },
@@ -699,6 +699,33 @@
           "link": "https://blog.xuioo.com/posts/apology-for-twikoo-722/",
           "published": "2026-07-22",
           "summary": "前端乐观发送 + 本地持久化队列导致的 自动重复提交 & 邮件轰炸 事故"
+        }
+      ]
+    },
+    {
+      "title": "朽丘秋雨",
+      "url": "https://koxiuqiu.cn/",
+      "icon": "https://list.yppp.net/d/oss/image/i/2025/05/16/875c1da2384560faafeedd37152d5c8c.webp",
+      "description": "一定会和喜欢的人在夏日夜晚牵手慢步",
+      "labels": [],
+      "posts": [
+        {
+          "title": "如何启用域名DNSSEC的设置以及吃瓜某蒂云服务商跑路这件事",
+          "link": "https://koxiuqiu.cn/posts/34p2605101/",
+          "published": "2026-05-10 13:50",
+          "summary": "别来无恙；有一段时间不在互联网冒头了，特意来水一下表示我活着。 最近发生的事情有些多，最近的一件事情相信各位IT都有所了解，前段时间在忙也就没怎么特别区了解。关于某蒂云服务商破产清算这件事，也就是跑路。（详细吃瓜可以翻到下边看。 不过主"
+        },
+        {
+          "title": "快速登记自己的作品版权合法保护自己的绘画等艺术作品",
+          "link": "https://koxiuqiu.cn/posts/33p2604191/",
+          "published": "2026-04-19 15:05",
+          "summary": "别来无恙；来听一首音乐吗？ <iframe frameborder=\"no\" border=\"0\" marginwidth=\"0\" marginheight=\"0\" width=330 height=86 src=\"//music.163.com/outchain/"
+        },
+        {
+          "title": "实现Artalk中间页安全跳转和表情包小图BUG预览",
+          "link": "https://koxiuqiu.cn/posts/32p2604141/",
+          "published": "2026-04-14 13:35",
+          "summary": "artalk.styl"
         }
       ]
     }
