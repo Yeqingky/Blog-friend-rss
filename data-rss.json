@@ -568,6 +568,33 @@
       ]
     },
     {
+      "title": "Hexvork Blog",
+      "url": "https://www.hexvork.com",
+      "icon": "https://list.yppp.net/d/image/2026-05-06-e8bc9b10b21b4600139fa84b0ee84c9b.png",
+      "description": "分享网络优化、开发实战和工具评测，用人话讲技术。",
+      "labels": [],
+      "posts": [
+        {
+          "title": "GitHub 多账户 SSH 配置与权限问题解决，Git多账号管理",
+          "link": "https://www.hexvork.com/posts/git-accounts",
+          "published": "2026-07-19 12:00",
+          "summary": "本文解决了一台电脑同时使用两个 GitHub 账户的 SSH 配置问题。通过为每个账户生成独立密钥（id_rsa 和 id_rsa_2），并利用 SSH config 文件设置 Host 别名，实现不同仓库自动匹配对应密钥。文章还重点处理了 Windows 多账户遗留的 .ssh 文件权限问题——历史账户虽已删除，但权限残留会导致 SSH 拒绝连接，需用 icacls 命令清理多余用户权限。全程提"
+        },
+        {
+          "title": "通过Cloudflare Tunnel和Warp拯救纯IPV6服务器，轻松部署访问Artalk和1Panel并通过域名用IPV4网络访问",
+          "link": "https://www.hexvork.com/posts/ipv6-vps",
+          "published": "2026-07-19",
+          "summary": "这篇教程记录了作者在IPv6-only服务器上部署1Panel和Artalk的全过程，核心思路是通过Cloudflare Warp获取IPv4出口解决下载问题，再借助Cloudflare Tunnel实现IPv4访问，避免暴露端口提升安全性。文中详细演示了Warp配置、1Panel安装、Artalk二进制部署及Nginx-light反代，并针对GPG密钥、systemd服务等常见报错给出了实测解决"
+        },
+        {
+          "title": "部署Waline，给你的Astro博客加上Waline评论，实现说说等高级功能",
+          "link": "https://www.hexvork.com/posts/astro-waline",
+          "published": "2026-06-20",
+          "summary": "作者因持续调整博客样式、通过“鱼鱼中转”结合 GPT 深度修改 UI、引入图片永久访问技术，以及研究并开发 Waline 说说功能，导致近一个月未更新。为了“水篇文章”，作者详细分享了 Astro 接入 Waline 并实现说说功能的完整教程。内容涵盖：利用 Vercel 与 TiDB Cloud 免费计划分别快速部署 Waline 前后端、初始化数据库、进行前后端环境变量连接并注册管理员；在 A"
+        }
+      ]
+    },
+    {
       "title": "miuo",
       "url": "https://miuo.me",
       "icon": "https://list.yppp.net/d/cos/image/73affda50464a3448a7b7ba6746fba4684934f04222f9d8ed3b5217c644db847.webp",
