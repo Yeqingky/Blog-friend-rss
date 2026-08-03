@@ -39,6 +39,14 @@
       "description": "一个开放共享的全版本Minecraft下载站.",
       "labels": [],
       "posts": []
+    },
+    {
+      "title": "miuo",
+      "url": "https://miuo.me",
+      "icon": "https://list.yppp.net/d/cos/image/73affda50464a3448a7b7ba6746fba4684934f04222f9d8ed3b5217c644db847.webp",
+      "description": "记录文章、笔记、实验和暂时不想丢掉的内容。",
+      "labels": [],
+      "posts": []
     }
   ]
 }
