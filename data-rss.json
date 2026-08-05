@@ -521,6 +521,12 @@
       "labels": [],
       "posts": [
         {
+          "title": "关于adb你可能不知道的冷知识",
+          "link": "https://www.b23.kim/details/ebbd449b0975.html",
+          "published": "2026-08-05 19:49",
+          "summary": "引言ADB，全称Android Debug Bridge。是谷歌推出的一款安卓调试桥程序（工具集），用于安卓软件的开发与调试。在Android"
+        },
+        {
           "title": "XEMC网站前端等各种源码，2MB文本量的高亮很卡，慎入",
           "link": "https://www.b23.kim/details/13cdc5913abb.html",
           "published": "2026-07-22 18:32",
@@ -531,12 +537,6 @@
           "link": "https://www.b23.kim/details/e03da5da900d.html",
           "published": "2026-07-22 16:24",
           "summary": "<iframe src=\"//player.bilibili.com/player.html?isOutside=true&aid=116957848343556&bvid=BV1FrKh6ME5X&"
-        },
-        {
-          "title": "频道机器人所有ark模板",
-          "link": "https://www.b23.kim/details/fac55469324b.html",
-          "published": "2026-07-20 13:25",
-          "summary": "本文仅做备份原文链接：https://docs.qq.com/doc/DTVVicWZUUGtSSHZC?dver="
         }
       ]
     },
