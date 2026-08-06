@@ -602,22 +602,22 @@
       "labels": [],
       "posts": [
         {
+          "title": "Qexo 说说 API 适配 AnZhiYu 主题",
+          "link": "https://blog.346247.xyz/posts/qexo-essay-anzhiyu/",
+          "published": "2026-08-01 23:00",
+          "summary": "前言AnZhiYu 主题自带的 essay（即刻短文）功能是基于本地 source/_data/essay.yml"
+        },
+        {
+          "title": "给博客做了一轮大修：书架、中控台、访客信息一次搞定",
+          "link": "https://blog.346247.xyz/posts/8a3f9c21/",
+          "published": "2026-08-01 04:30",
+          "summary": "又是折腾博客的一晚上博客用 AnZhiYu"
+        },
+        {
           "title": "Cloud Mail APP项目介绍",
           "link": "https://blog.346247.xyz/posts/a2479314/",
           "published": "2026-07-11 19:35",
           "summary": "Cloud"
-        },
-        {
-          "title": "关于近期期末考试的成绩总结",
-          "link": "https://blog.346247.xyz/posts/eef78982/",
-          "published": "2026-07-03 05:43",
-          "summary": "前言我在某篇文章里面曾说过 我哥说明 只要考进年级前50名 就可以给我购买一台新手机 我满心欢喜的准备 因为半期时 我是年级前150-100"
-        },
-        {
-          "title": "免费部署Cloudreve 免费100GB存储",
-          "link": "https://blog.346247.xyz/posts/232a724/",
-          "published": "2026-06-12 06:03",
-          "summary": "前言前端时间自己搭建了一个网盘 还不错 分享一下 <img"
         }
       ]
     },
