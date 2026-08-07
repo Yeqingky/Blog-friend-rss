@@ -8,22 +8,22 @@
       "labels": [],
       "posts": [
         {
-          "title": "[PC]满屋猫咪/Flats Full of Cats",
-          "link": "https://www.cheesegame.org/58187.html",
-          "published": "2026-08-07 03:21",
-          "summary": "Flats Full of Cats是一款温馨的找物游戏，你将在其中探索充满猫咪朋友的可爱公寓！"
+          "title": "[PC]君王之塔/Sovereign Tower",
+          "link": "https://www.cheesegame.org/58223.html",
+          "published": "2026-08-07 14:39",
+          "summary": "扮演一座魔法高塔的君主，感受这款剧情向的圆桌骑士模拟 RPG 吧。招募性格迥异的骑士，分配任务，平衡各方势力， […]"
         },
         {
-          "title": "[PC]青鬼2/Aooni2",
-          "link": "https://www.cheesegame.org/58188.html",
-          "published": "2026-08-07 03:21",
-          "summary": "【在废弃的、被雨水浸透的学校里遭遇双倍的蓝色恐怖】传奇恐怖系列《青之恐惧》的最新作品！"
+          "title": "[PC]维修物语/ReStory: Chill Electronics Repairs",
+          "link": "https://www.cheesegame.org/58224.html",
+          "published": "2026-08-07 14:39",
+          "summary": "在2005年左右的东京开一间古朴的电子产品维修店，通过认真修复标志性的电子游戏主机、手机、音乐播放器及其他怀旧 […]"
         },
         {
-          "title": "[PC]枪火无双/Gunstoppable",
-          "link": "https://www.cheesegame.org/58189.html",
-          "published": "2026-08-07 03:21",
-          "summary": "这是一款节奏极快且移速决定伤害的 Roguelite 第一人称射击游戏。双手握持强力的武器组合，扭曲时间，消灭 […]"
+          "title": "[PC]阅骨者/BONEREADER",
+          "link": "https://www.cheesegame.org/58225.html",
+          "published": "2026-08-07 14:39",
+          "summary": "在这款卡牌冒险游戏中掷骰子争取重生的机会。在迷幻的炼狱中构筑牌组、收集异界骰子，并与灵体对战。你...值得获得 […]"
         }
       ]
     },
@@ -575,6 +575,12 @@
       "labels": [],
       "posts": [
         {
+          "title": "使用Cloudflare部署Cap Standalone",
+          "link": "https://blog.346247.xyz/posts/a1b2c3d4/",
+          "published": "2026-08-06 18:00",
+          "summary": "<a href=\"#使用-Cloudflare-部署-Cap-Standalone\" class=\"headerlink\" title=\"使用 Cloudflare 部署 Cap"
+        },
+        {
           "title": "Qexo 说说 API 适配 AnZhiYu 主题",
           "link": "https://blog.346247.xyz/posts/qexo-essay-anzhiyu/",
           "published": "2026-08-01 23:00",
@@ -585,12 +591,6 @@
           "link": "https://blog.346247.xyz/posts/8a3f9c21/",
           "published": "2026-08-01 04:30",
           "summary": "又是折腾博客的一晚上博客用 AnZhiYu"
-        },
-        {
-          "title": "Cloud Mail APP项目介绍",
-          "link": "https://blog.346247.xyz/posts/a2479314/",
-          "published": "2026-07-11 19:35",
-          "summary": "Cloud"
         }
       ]
     },
