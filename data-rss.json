@@ -325,33 +325,6 @@
       ]
     },
     {
-      "title": "Tavre Blog",
-      "url": "https://blog.tavr.top/",
-      "icon": "https://q1.qlogo.cn/g?b=qq&nk=2987304764&s=640",
-      "description": "茫茫人海 我与你相遇",
-      "labels": [],
-      "posts": [
-        {
-          "title": "半夜有感 便有此文",
-          "link": "https://blog.tavr.top/posts/260228/",
-          "published": "2026-02-28",
-          "summary": "简述一下我这半年的生活"
-        },
-        {
-          "title": "宝塔·砺行计划",
-          "link": "https://blog.tavr.top/posts/bt_lxjh/",
-          "published": "2025-12-26",
-          "summary": "个人申请【宝塔·砺行计划】的经验"
-        },
-        {
-          "title": "图床测试",
-          "link": "https://blog.tavr.top/posts/imgtest/",
-          "published": "2025-10-20",
-          "summary": "本篇用于测试我的图床接口图片链接是否设置防盗链"
-        }
-      ]
-    },
-    {
       "title": "AirTouch's Blog",
       "url": "https://www.xsl.im/",
       "icon": "https://list.yppp.net/d/image/bff442311573333216e74fd6721588e1.webp",
@@ -375,33 +348,6 @@
           "link": "https://www.xsl.im/qiniuyun-ai",
           "published": "2026-02-04 01:32",
           "summary": "七牛云 AI 大模型最近狂送 1300w token，模型涵盖 Qwen、DeepSeek 等多家开源模型，用起来非常丝滑！"
-        }
-      ]
-    },
-    {
-      "title": "鈴奈咲桜のBlog",
-      "url": "https://blog.sakura.ink",
-      "icon": "https://list.yppp.net/d/image/02a557227cc0bbf982889514947cc005.webp",
-      "description": "愛することを忘れないで",
-      "labels": [],
-      "posts": [
-        {
-          "title": "Claude Code StatusLine 配置",
-          "link": "https://blog.sakura.ink/posts/claude_code_suatusline/",
-          "published": "2026-08-03 16:30",
-          "summary": "如何为 Claude Code 配置状态栏?"
-        },
-        {
-          "title": "如何使用1Panle创建Team Speak服务器",
-          "link": "https://blog.sakura.ink/posts/teamspeak3/",
-          "published": "2026-07-09 23:30",
-          "summary": "Git是一款分布式版本控制工具，可以帮助开发者管理代码版本、团队协作以及代码备份"
-        },
-        {
-          "title": "Git教程",
-          "link": "https://blog.sakura.ink/posts/git/",
-          "published": "2026-06-27 12:30",
-          "summary": "Git是一款分布式版本控制工具，可以帮助开发者管理代码版本、团队协作以及代码备份"
         }
       ]
     },
@@ -629,6 +575,12 @@
       "labels": [],
       "posts": [
         {
+          "title": "朋友圈大改",
+          "link": "https://www.wxuyu.top/2026/08/circlepage",
+          "published": "2026-08-08 06:00",
+          "summary": "该文章主要写了对于低价机器的试水，并提醒是超开类型的机器。在测试的过程中发现机器性能较高，且展示出机器的具体价格，并单独列出只有精简版未采用完整版测试。"
+        },
+        {
           "title": "用元宝写一个ServiceWorker",
           "link": "https://www.wxuyu.top/2026/04/nuxtserviceworker",
           "published": "2026-04-21 06:00",
@@ -638,12 +590,6 @@
           "title": "用Codex写一个热搜页面",
           "link": "https://www.wxuyu.top/2026/04/nuxthotpage",
           "published": "2026-04-13 06:00",
-          "summary": "该文章主要写了对于低价机器的试水，并提醒是超开类型的机器。在测试的过程中发现机器性能较高，且展示出机器的具体价格，并单独列出只有精简版未采用完整版测试。"
-        },
-        {
-          "title": "说说页面（Nuxt版本）",
-          "link": "https://www.wxuyu.top/2026/04/essaynuxtpage",
-          "published": "2026-04-11 06:00",
           "summary": "该文章主要写了对于低价机器的试水，并提醒是超开类型的机器。在测试的过程中发现机器性能较高，且展示出机器的具体价格，并单独列出只有精简版未采用完整版测试。"
         }
       ]
